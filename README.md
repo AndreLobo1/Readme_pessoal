@@ -26,8 +26,13 @@
 Escolha um horário para nos encontrarmos e bater um papo sobre qualquer coisa que você seja apaixonado - mas não se esqueça de descrever a agenda.
 
 <p align="left">
-  <a href="**SEU_LINK_DO_GOOGLE_MEET**" target="_blank"><img width="400" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-  <img align="right" src="images/andre_lobo.jpg" alt="Imagem Reunião" width="300">
+  <a href="**SEU_LINK_DO_GOOGLE_MEET**" target="_blank">
+    <img width="400" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png">
+  </a>
+</p>
+
+<p align="right">
+  <img align="left" src="images/andre_lobo.jpg" alt="Imagem Reunião" width="300">
 </p>
 
 ### 🧑‍💻 Sobre Mim
