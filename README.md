@@ -14,10 +14,10 @@
 
 <table align="right">
  <tr>
-   <td><a href="README.md"><img src="images/us-flag.gif" height="13" style="vertical-align:middle"> English</a></td>
+   <td><a href="README.md"><img src="images/us-flag.gif" height="15" style="vertical-align:middle"> English</a></td>
  </tr>
  <tr>
-   <td><a href="README_pt.md"><img src="images/br-flag.gif" height="13" style="vertical-align:middle"> Português</a></td>
+   <td><a href="README_pt.md"><img src="images/br-flag.gif" height="15" style="vertical-align:middle"> Português</a></td>
  </tr>
 </table>
 
