@@ -162,7 +162,7 @@ Tenho experiência e familiaridade com uma variedade de ferramentas e tecnologia
 
 ### 🐍 Atividade da Cobrinha
 <p align="center">
-  <img src="images.github-user-contribution.svg" alt="GitHub Contribution Grid Snake Animation">
+  <img src="images/github-user-contribution.svg" alt="GitHub Contribution Grid Snake Animation">
 </p>
 
 
