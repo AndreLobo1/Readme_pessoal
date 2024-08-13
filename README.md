@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="**LINK_DO_BANNER_PERSONALIZADO**" alt="Hello World, eu sou o André Lobo" />
+  <img src="https://svg-banners.vercel.app/api?type=textBox&text1=André%20Lobo%20-%20Engenheiro%20de%20Software%20em%20formação&width=1000&height=150" alt="André Lobo - Engenheiro de Software em formação" style="max-width: 100%; height: auto;" />
 </h1>
+
 
 ## <h2 align="center">
   <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=%22Seja%20o%20engenheiro,%20não%20o%20robô%22&width=1000&height=150" alt="Seja o engenheiro, não o robô" style="max-width: 100%; height: auto;" />
