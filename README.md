@@ -23,19 +23,14 @@
 
 
 ### 📫 Gostaria de me conhecer?
-<p>
+
+<img align="right" src="images/andre_lobo.jpg" alt="Imagem Reunião" width="230">
+
 Escolha um horário para nos encontrarmos e bater um papo sobre qualquer coisa que você seja apaixonado - mas não se esqueça de descrever a agenda.
-<a href="**SEU_LINK_DO_GOOGLE_MEET**" target="_blank">
-    <img align="right" width="300" alt="Imagem Reunião" src="images/andre_lobo.jpg">
-</a>
-</p>
 
-<p>
 <a href="**SEU_LINK_DO_GOOGLE_MEET**" target="_blank">
-    <img width="400" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png">
+    <img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png">
 </a>
-</p>
-
 
 ### 🧑‍💻 Sobre Mim
 Olá! Eu sou André Lobo, estudante de [Engenharia de Software no Inteli](https://www.inteli.edu.br/) e de [Engenharia de Computação na Univesp](https://univesp.br/). Apaixonado por tecnologia e inovação, estou sempre em busca de novos desafios e aprendizados. No Inteli, estou envolvido em projetos que utilizam metodologias ágeis e foco em soluções práticas para problemas reais. Atualmente, estou desenvolvendo um modelo preditivo de receita em parceria com a [Rede Gazeta do Espírito Santo](https://www.gazetaonline.com.br/). E sim, eu faço duas graduações ao mesmo tempo! 😄
