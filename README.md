@@ -20,14 +20,16 @@
 </table>
 
 ### 🧑‍💻 Sobre Mim
-Olá! Eu sou André Lobo, estudante de [Engenharia de Software no Inteli](https://www.inteli.edu.br/) e de [Engenharia de Computação na Univesp](https://univesp.br/). Apaixonado por tecnologia e inovação, estou sempre em busca de novos desafios e aprendizados. No Inteli, estou envolvido em projetos que utilizam metodologias ágeis e foco em soluções práticas para problemas reais. Atualmente, estou desenvolvendo um modelo preditivo de receita em parceria com a [Rede Gazeta do Espírito Santo](https://www.gazetaonline.com.br/). E sim, eu faço duas graduações ao mesmo tempo! 😄
 
+Olá! Eu sou André Lobo, estudante do primeiro ano de Engenharia de Software no [Inteli](https://www.inteli.edu.br/). No Inteli, a metodologia baseada em projetos me permite aplicar meus conhecimentos na prática, o que é fundamental para meu desenvolvimento acadêmico e profissional. Sou apaixonado por tecnologia e inovação, sempre buscando novos desafios e aprendizados. Além disso, tenho um forte interesse por causas sociais e procuro integrar essas paixões em meus projetos.
+
+Atualmente, estou trabalhando em um modelo preditivo de receita em parceria com a [Rede Gazeta do Espírito Santo](https://www.gazetaonline.com.br/), o que tem sido uma experiência enriquecedora. Estou constantemente explorando novas oportunidades para crescer e contribuir para a sociedade através da tecnologia.
 
 ### 📫 Gostaria de me conhecer?
 
 <img align="right" src="images/andre_lobo.jpg" alt="Imagem Reunião" width="230" height="200">
 
-Escolha um horário para nos encontrarmos e bater um papo sobre qualquer coisa que você seja apaixonado - mas não se esqueça de descrever a agenda.
+Escolha um horário que seja conveniente para você e vamos conversar sobre qualquer assunto que achar relevante 😊! Por favor, inclua uma breve descrição da agenda para que possamos aproveitar ao máximo nosso encontro.
 
 <a href="https://calendly.com/andrelobo/papo-com-andre-lobo" target="_blank">
     <img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png">
@@ -35,24 +37,51 @@ Escolha um horário para nos encontrarmos e bater um papo sobre qualquer coisa q
 
 ### 🗂️ Projetos em Destaque
 
-#### **Cidade Unilever**
+#### [**Cidade Unilever**](#)
 Este projeto consiste em um jogo interativo desenvolvido para melhorar a experiência de onboarding dos novos funcionários da área de TI da Unilever. O jogo apresenta informações da empresa de maneira envolvente e alinhada aos valores fundamentais da Unilever.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Phaser-5A0FC8?style=for-the-badge&logo=phaser&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Tiled-58A6FF?style=for-the-badge&logo=tiled&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Librasprite-00A3E0?style=for-the-badge&logo=librasprite&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Kanban-0097A7?style=for-the-badge&logo=kanban&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Scrum-0C4B7F?style=for-the-badge&logo=scrum&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Object-Oriented_Programming-000000?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Code_Modularization-000000?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Gitflow-000000?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-#### **Zuyd Connections**
+#### [**Zuyd Connections**](#)
 Uma plataforma web desenvolvida em parceria com a Zuyd University, na Holanda, para apoiar estudantes internacionais na compreensão das diferenças culturais durante uma simulação de negócios. O projeto ajuda a melhorar a colaboração e a comunicação entre equipes multiculturais.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Kanban-0097A7?style=for-the-badge&logo=kanban&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Scrum-0C4B7F?style=for-the-badge&logo=scrum&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Sails.js-003B57?style=for-the-badge&logo=sails.js&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Sinon.js-003B57?style=for-the-badge&logo=sinon.js&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DBeaver-7F9C8C?style=for-the-badge&logo=dbeaver&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Render-5E2D79?style=for-the-badge&logo=render&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Gitflow-000000?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL_Designer-000000?style=for-the-badge&logo=sql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AAA_Pattern-000000?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MVC_Pattern-000000?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 ### 🏢 Experiência Profissional
