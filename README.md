@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://svg-banners.vercel.app/api?type=textBox&text1=André%20Lobo%20-%20Engenheiro%20de%20Software%20em%20formação&width=1000&height=150" alt="André Lobo - Engenheiro de Software em formação" style="max-width: 100%; height: auto;" />
+  <img src="https://svg-banners.vercel.app/api?type=textBox&text1=André%20Lobo%20-%20Engenheiro%20de%20Software%20em%20formação&width=1200&height=200" alt="André Lobo - Engenheiro de Software em formação" style="max-width: 100%; height: auto;" />
 </h1>
+
 
 
 ## <h2 align="center">
