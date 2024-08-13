@@ -13,9 +13,9 @@
 </p>
 
 <p align="right">
-  <a href="README.md"><img src="images/us-flag.png" height="13"> English</a>
+  <a href="README.md"><img src="images/us-flag.gif" height="13"> English</a>
   <br>
-  <a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a>
+  <a href="README_pt.md"><img src="images/br-flag.gif" height="13"> Português</a>
 </p>
 
 ### 📫 Gostaria de me conhecer?
