@@ -19,7 +19,7 @@
   </tr>
 </table>
 
-<p align="center">Este README está disponível em diferentes idiomas. Selecione a versão desejada acima.</p>
+<sub align="center">Este README está disponível em diferentes idiomas. Selecione a versão desejada acima.</sub>
 
 ### 🧑‍💻 Sobre Mim
 Olá! Eu sou André Lobo, estudante de [Engenharia de Software no Inteli](https://www.inteli.edu.br/) e de [Engenharia de Computação na Univesp](https://univesp.br/). Apaixonado por tecnologia e inovação, estou sempre em busca de novos desafios e aprendizados. No Inteli, estou envolvido em projetos que utilizam metodologias ágeis e foco em soluções práticas para problemas reais. Atualmente, estou desenvolvendo um modelo preditivo de receita em parceria com a [Rede Gazeta do Espírito Santo](https://www.gazetaonline.com.br/). E sim, eu faço duas graduações ao mesmo tempo! 😄
