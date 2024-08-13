@@ -29,7 +29,7 @@ Olá! Eu sou André Lobo, estudante de [Engenharia de Software no Inteli](https:
 
 Escolha um horário para nos encontrarmos e bater um papo sobre qualquer coisa que você seja apaixonado - mas não se esqueça de descrever a agenda.
 
-<a href="**SEU_LINK_DO_GOOGLE_MEET**" target="_blank">
+<a href="https://calendly.com/andrelobo/papo-com-andre-lobo" target="_blank">
     <img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png">
 </a>
 
