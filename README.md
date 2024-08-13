@@ -13,9 +13,14 @@
 </p>
 
 <table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.gif" height="13"> English</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/br-flag.gif" height="13"> Português</a></td></tr>
+ <tr>
+   <td><a href="README.md"><img src="images/us-flag.gif" height="13" style="vertical-align:middle"> English</a></td>
+ </tr>
+ <tr>
+   <td><a href="README_pt.md"><img src="images/br-flag.gif" height="13" style="vertical-align:middle"> Português</a></td>
+ </tr>
 </table>
+
 
 ### 📫 Gostaria de me conhecer?
 Escolha um horário para nos encontrarmos e bater um papo sobre qualquer coisa que você seja apaixonado - mas não se esqueça de descrever a agenda.
