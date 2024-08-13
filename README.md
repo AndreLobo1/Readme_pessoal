@@ -24,7 +24,7 @@ Olá! Eu sou André Lobo, estudante de [Engenharia de Software no Inteli](https:
 
 ### 📫 Gostaria de me conhecer?
 
-<img align="right" src="images/andre_lobo.jpg" alt="Imagem Reunião" width="230" height="50">
+<img align="right" src="images/andre_lobo.jpg" alt="Imagem Reunião" width="230" height="200">
 
 Escolha um horário para nos encontrarmos e bater um papo sobre qualquer coisa que você seja apaixonado - mas não se esqueça de descrever a agenda.
 
