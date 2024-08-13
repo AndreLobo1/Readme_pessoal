@@ -40,15 +40,6 @@ Olá! Eu sou André Lobo, estudante de [Engenharia de Software no Inteli](https:
 
 ### 🗂️ Projetos em Destaque
 
-<p align="center">
-  <a href="LINK_VAZIO_UNILEVER">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreLobo1&repo=Cidade-Unilever&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Cidade Unilever" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="LINK_VAZIO_ZUYD">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreLobo1&repo=Zuyd-Connections&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zuyd Connections" />
-  </a>
-</p>
-
 #### **Cidade Unilever**
 Este projeto consiste em um jogo interativo desenvolvido para melhorar a experiência de onboarding dos novos funcionários da área de TI da Unilever. O jogo apresenta informações da empresa de maneira envolvente e alinhada aos valores fundamentais da Unilever.
 
@@ -68,7 +59,6 @@ Uma plataforma web desenvolvida em parceria com a Zuyd University, na Holanda, p
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-
 
 ### 🏢 Experiência Profissional
 **[BTG Pactual](https://www.btgpactual.com/):** Durante meu estágio na área de UX Banking, trabalhei na melhoria da experiência de solicitação de crédito, aplicando gamificação e heurísticas de Nielsen para melhorar a usabilidade e a satisfação do usuário.
