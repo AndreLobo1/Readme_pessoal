@@ -3,7 +3,7 @@
 </h1>
 
 ## <h2 align="center">
-  <img src="**LINK_DO_BANNER_CITACAO**" alt="Seja o engenheiro, não o robô" />
+  <img src="[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Seja%20o%20engenheiro,%20não%20o%20robô&width=800&height=400)](https://github.com/Akshay090/svg-banners)" alt="Seja o engenheiro, não o robô" />
 </h2>
 
 <p align="center">
