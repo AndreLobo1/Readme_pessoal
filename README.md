@@ -22,8 +22,8 @@
 Escolha um horário para nos encontrarmos e bater um papo sobre qualquer coisa que você seja apaixonado - mas não se esqueça de descrever a agenda.
 
 <p align="left">
-  <a href="**SEU_LINK_DO_GOOGLE_MEET**" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-  <img align="right" src="**LINK_IMAGEM_AGENDAMENTO**" alt="Imagem Reunião" width="200">
+  <a href="**SEU_LINK_DO_GOOGLE_MEET**" target="_blank"><img width="400" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+  <img align="right" src="**LINK_IMAGEM_AGENDAMENTO**" alt="Imagem Reunião" width="300">
 </p>
 
 ### 🧑‍💻 Sobre Mim
@@ -32,12 +32,12 @@ Olá! Eu sou André Lobo, estudante de [Engenharia de Software no Inteli](https:
 ### 🗂️ Projetos em Destaque
 
 <p align="center">
-<a href="https://github.com/Inteli-College/2024-1B-T12-IN02-G01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Inteli-College&repo=2024-1B-T12-IN02-G01&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Cidade Unilever" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Inteli-College/2024-T0012-IN01-G03">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Inteli-College&repo=2024-T0012-IN01-G03&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zuyd Connections" />
-</a>
+  <a href="https://github.com/Inteli-College/2024-1B-T12-IN02-G01">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Inteli-College&repo=2024-1B-T12-IN02-G01&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Cidade Unilever" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Inteli-College/2024-T0012-IN01-G03">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Inteli-College&repo=2024-T0012-IN01-G03&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zuyd Connections" />
+  </a>
 </p>
 
 ### 🏢 Experiência Profissional
@@ -71,7 +71,7 @@ Atualmente, estou me aprofundando em modelagem preditiva e inteligência artific
 
 ### 📊 Métricas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreLobo1&show_icons=true&theme=dracula" alt="GitHub Stats" />&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=AndreLobo1&show_icons=true&theme=dracula" alt="GitHub Stats" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLobo1&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
