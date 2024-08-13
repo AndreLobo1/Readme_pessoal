@@ -90,14 +90,14 @@ Uma plataforma web desenvolvida em parceria com a Zuyd University, na Holanda, p
 
 
 ### 🏢 Experiência Profissional
-**[BTG Pactual](https://www.btgpactual.com/):** Durante meu estágio na área de UX Banking, trabalhei na melhoria da experiência de solicitação de crédito, aplicando gamificação e heurísticas de Nielsen para melhorar a usabilidade e a satisfação do usuário.
+**[BTG Pactual](https://www.btgpactual.com/):** Durante meu estágio de férias na área de UX Banking, trabalhei na melhoria da experiência de solicitação de crédito, aplicando gamificação e heurísticas de Nielsen para melhorar a usabilidade e a satisfação do usuário.
 
 ### 🎓 Formação Acadêmica
-- **[Inteli](https://www.inteli.edu.br/):** Estudante de Engenharia de Software. Desenvolvo soluções inovadoras com base em metodologias ágeis e práticas de mercado.
-- **[Univesp](https://univesp.br/):** Estudante de Engenharia de Computação. Aprovado em 5º lugar. Participo de projetos integradores que aplicam conhecimentos adquiridos em sala de aula para resolver problemas reais.
+**[Inteli](https://www.inteli.edu.br/):** Estudante de Engenharia de Software, aprovado com bolsa integral e auxílios. Desenvolvo soluções inovadoras e projetos em parceria com empresas reais, aplicando metodologias ágeis e práticas de mercado.
+**[Univesp](https://univesp.br/):** Estudante de tecnologia da informação. Aprovado em 5º lugar. Participo de projetos integradores que aplicam conhecimentos adquiridos em sala de aula para resolver problemas reais.
 
 ### 📊 Projeto Atual
-**Rede Gazeta:** Estou atualmente desenvolvendo um modelo preditivo para previsão de receitas publicitárias, utilizando técnicas avançadas de análise de dados, em parceria com a [Rede Gazeta do Espírito Santo](https://www.gazetaonline.com.br/).
+**Rede Gazeta:** Estou atualmente desenvolvendo um modelo preditivo para previsão de receitas publicitárias, utilizando técnicas de análise de dados e machine learning, em parceria com a [Rede Gazeta do Espírito Santo](https://www.gazetaonline.com.br/).
 
 ### 📚 Estou Aprendendo
 Atualmente, estou me aprofundando em modelagem preditiva e inteligência artificial, utilizando tecnologias como:
@@ -108,15 +108,46 @@ Atualmente, estou me aprofundando em modelagem preditiva e inteligência artific
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-### 🛠️ Tecnologias e Ferramentas
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Phaser-5A0FC8?style=for-the-badge&logo=phaser&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+### Ferramentas e Tecnologias
+
+Tenho experiência e familiaridade com uma variedade de ferramentas e tecnologias, que utilizei em diferentes projetos.
+
+#### **Front-End:**
+- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+#### **Back-End:**
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+- ![Sails.js](https://img.shields.io/badge/Sails.js-000000?style=for-the-badge&logo=sails&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![DBeaver](https://img.shields.io/badge/DBeaver-1B1B1B?style=for-the-badge&logo=dbeaver&logoColor=white)
+
+#### **Desenvolvimento e Colaboração:**
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+- ![Kanban](https://img.shields.io/badge/Kanban-0097A7?style=for-the-badge&logo=kanban&logoColor=white)
+- ![Scrum](https://img.shields.io/badge/Scrum-FF6F00?style=for-the-badge&logo=scrum&logoColor=white)
+
+#### **Design e Desenvolvimento de Jogos:**
+- ![Phaser](https://img.shields.io/badge/Phaser-5A0FC8?style=for-the-badge&logo=phaser&logoColor=white)
+- ![Tiled](https://img.shields.io/badge/Tiled-58A6FF?style=for-the-badge&logo=tiled&logoColor=white)
+- ![Librasprite](https://img.shields.io/badge/Librasprite-00A3E0?style=for-the-badge&logo=librasprite&logoColor=white)
+
+#### **Testes e Qualidade:**
+- ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+- ![Sinon.js](https://img.shields.io/badge/Sinon.js-003E54?style=for-the-badge&logo=sinon&logoColor=white)
+
+#### **Práticas e Metodologias de Desenvolvimento:**
+- ![Orientação a Objetos](https://img.shields.io/badge/Orientação_a_Objetos-5A0FC8?style=for-the-badge&logo=object-oriented-programming&logoColor=white)
+- ![Padrão AAA](https://img.shields.io/badge/Padrão_AAA_(Arrange-Act-Assert)-7F8C8D?style=for-the-badge&logo=testing&logoColor=white)
+- ![MVC](https://img.shields.io/badge/MVC_(Model-View-Controller)-E34F26?style=for-the-badge&logo=architecture&logoColor=white)
+
+#### **Outras Tecnologias:**
+- ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### 📊 Métricas do GitHub
 <p align="center">
