@@ -3,7 +3,7 @@
 </h1>
 
 ## <h2 align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Seja%20o%20engenheiro,%20não%20o%20robô&width=800&height=400" alt="Seja o engenheiro, não o robô" />
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=%22Seja%20o%20engenheiro,%20não%20o%20robô%22&width=800&height=200" alt="Seja o engenheiro, não o robô" />
 </h2>
 
 
