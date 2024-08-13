@@ -12,15 +12,15 @@
   <a href="https://github.com/AndreLobo1"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<table align="right">
+### 🧑‍💻 Sobre Mim
+Olá! Eu sou André Lobo, estudante de [Engenharia de Software no Inteli](https://www.inteli.edu.br/) e de [Engenharia de Computação na Univesp](https://univesp.br/). Apaixonado por tecnologia e inovação, estou sempre em busca de novos desafios e aprendizados. No Inteli, estou envolvido em projetos que utilizam metodologias ágeis e foco em soluções práticas para problemas reais. Atualmente, estou desenvolvendo um modelo preditivo de receita em parceria com a [Rede Gazeta do Espírito Santo](https://www.gazetaonline.com.br/). E sim, eu faço duas graduações ao mesmo tempo! 😄
+
+<table align="center">
  <tr>
    <td><a href="README.md"><img src="images/image (1).png" height="13" style="vertical-align:middle"> English</a></td>
- </tr>
- <tr>
    <td><a href="README_pt.md"><img src="images/image.png" height="13" style="vertical-align:middle"> Português</a></td>
  </tr>
 </table>
-
 
 ### 📫 Gostaria de me conhecer?
 
@@ -31,9 +31,6 @@ Escolha um horário para nos encontrarmos e bater um papo sobre qualquer coisa q
 <a href="**SEU_LINK_DO_GOOGLE_MEET**" target="_blank">
     <img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png">
 </a>
-
-### 🧑‍💻 Sobre Mim
-Olá! Eu sou André Lobo, estudante de [Engenharia de Software no Inteli](https://www.inteli.edu.br/) e de [Engenharia de Computação na Univesp](https://univesp.br/). Apaixonado por tecnologia e inovação, estou sempre em busca de novos desafios e aprendizados. No Inteli, estou envolvido em projetos que utilizam metodologias ágeis e foco em soluções práticas para problemas reais. Atualmente, estou desenvolvendo um modelo preditivo de receita em parceria com a [Rede Gazeta do Espírito Santo](https://www.gazetaonline.com.br/). E sim, eu faço duas graduações ao mesmo tempo! 😄
 
 ### 🗂️ Projetos em Destaque
 
