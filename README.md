@@ -145,7 +145,12 @@ Tenho experiência e familiaridade com uma variedade de ferramentas e tecnologia
 #### **Outras Tecnologias:**
 - ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-### 📊 Métricas do GitHub
+### 📊 My Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AndreLobo1&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndreLobo1&show_icons=true&theme=dracula" alt="GitHub Stats" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLobo1&layout=compact&theme=dracula" alt="Top Languages" />
@@ -153,7 +158,7 @@ Tenho experiência e familiaridade com uma variedade de ferramentas e tecnologia
 
 ### ⏱️ Coding Time in Last Month
 <p align="center">
-  <img src="https://wakatime.com/share/@andre_lobo/coding-time.svg" alt="Coding Time" />
+  <img src="https://wakatime.com/share/@andre_lobo1/coding-time.svg" alt="Coding Time" />
 </p>
 
 ### 🐍 Atividade da Cobrinha
