@@ -148,12 +148,15 @@ Tenho experiência e familiaridade com uma variedade de ferramentas e tecnologia
 ### 📊 My Stats
 
 <p align="center">
-  <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndreLobo1&theme=dark&hide_border=true&border_radius=0&locale=pt_BR&exclude_days=Sun%2CSat)](https://git.io/streak-stats)" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AndreLobo1&theme=dark&hide_border=true&border_radius=0&locale=pt_BR&exclude_days=Sun%2CSat" alt="GitHub Streak Stats" />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreLobo1&theme=dracula&hide_border=true" alt="GitHub Profile Details" />
 </p>
+
 
 ### ⏱️ Coding Time in Last Month
 <p align="center">
