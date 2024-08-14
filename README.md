@@ -1,12 +1,6 @@
 <h1 align="center">
-  <img src="https://svg-banners.vercel.app/api?type=textBox&text1=André%20Lobo%20-%20Engenheiro%20de%20Software%20em%20formação&width=1000&height=200" alt="André Lobo - Engenheiro de Software em formação" style="max-width: 100%; height: auto;" />
-</h2>
-
-## <h2 align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=%22Seja%20o%20engenheiro,%20não%20o%20robô%22&width=1000&height=150" alt="Seja o engenheiro, não o robô" style="max-width: 100%; height: auto;" />
-</h2>
-
-
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=195ab4&text=André%20Lobo&textBg=false&section=header&reversal=false&fontAlign=50&animation=fadeIn&stroke=450695&strokeWidth=2&desc=Engenheiro%20de%20software%20em%20formação" alt="André Lobo - Engenheiro de Software em formação" style="max-width: 100%; height: auto;" />
+</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andre-lobo-dev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
