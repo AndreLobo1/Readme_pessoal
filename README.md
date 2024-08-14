@@ -152,11 +152,6 @@ Tenho experiência e familiaridade com uma variedade de ferramentas e tecnologia
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreLobo1&show_icons=true&theme=dracula&hide_title=true&hide_border=true" alt="GitHub Stats" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLobo1&layout=compact&theme=dracula&hide_title=true&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreLobo1&theme=dracula&hide_border=true" alt="GitHub Profile Details" />
 </p>
 
