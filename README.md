@@ -160,6 +160,10 @@ Tenho experiência e familiaridade com uma variedade de ferramentas e tecnologia
   <img src="images/github-user-contribution.svg" alt="GitHub Contribution Grid Snake Animation">
 </p>
 
+<p align="center">
+  <img src="https://metrics.lecoq.io/andrelobo1?template=classic&isocalendar=1&lines=1&achievements=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction=false&introduction.title=true&config.timezone=America%2FSao_Paulo" alt="GitHub Metrics" />
+</p>
+
 # 🎉 Curiosidades
 - Sou apaixonado por genealogia e atuo como voluntário no FamilySearch, contribuindo para a preservação de histórias familiares e culturais.
 - Tenho interesse em projetos que envolvam impacto social e inovação tecnológica.
