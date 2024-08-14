@@ -156,6 +156,10 @@ Tenho experiência e familiaridade com uma variedade de ferramentas e tecnologia
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLobo1&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreLobo1&theme=dracula" alt="GitHub Profile Details" />
+</p>
+
 ### ⏱️ Coding Time in Last Month
 <p align="center">
   <img src="https://wakatime.com/share/@andre_lobo1/coding-time.svg" alt="Coding Time" />
