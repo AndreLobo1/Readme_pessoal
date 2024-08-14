@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=195ab4&text=André%20Lobo&textBg=false&section=header&reversal=false&fontAlign=50&animation=fadeIn&stroke=450695&strokeWidth=2&desc=Engenheiro%20de%20software%20em%20formação" alt="André Lobo - Engenheiro de Software em formação" style="max-width: 100%; height: auto;" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=195ab4&text=André%20Lobo&textBg=false&section=header&reversal=false&fontAlign=50&animation=fadeIn&stroke=450695&strokeWidth=2&desc=Engenheiro%20de%20software%20em%20formação&fontColor=FFFFFF" />
 </h1>
 
 <p align="center">
