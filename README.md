@@ -148,7 +148,7 @@ Tenho experiência e familiaridade com uma variedade de ferramentas e tecnologia
 ### 📊 My Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AndreLobo1&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+  <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndreLobo1&theme=dark&hide_border=true&border_radius=0&locale=pt_BR&exclude_days=Sun%2CSat)](https://git.io/streak-stats)" />
 </p>
 
 <p align="center">
