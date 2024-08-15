@@ -2,8 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=001f62&text=André%20Lobo&textBg=false&section=header&reversal=false&fontAlign=50&animation=fadeIn&stroke=450695&strokeWidth=2&desc=Engenheiro%20de%20software%20em%20formação&fontColor=a0a0a0" />
 </h1>
 
-<p align="center">
-  <td align="center" style="padding-right: 10px;">
+<table align="center">
+  <tr>
+    <td align="center" style="padding-right: 10px;">
       <a href="https://www.linkedin.com/in/andre-lobo-dev/" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandre-lobo-dev%2F&subtitle=@andre-lobo-dev&size=square" alt="André Lobo - LinkedIn">
       </a>
@@ -19,11 +20,12 @@
       </a>
     </td>
     <td align="center" style="padding-right: 10px;">
-      <a href="mailto:andre.paula@sou.inteli.edu.br" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=mailto:seu_email&subtitle=Descrição_do_Email&size=square" alt="André Lobo - Email">
+      <a href="https://pagina-pessoal.com/contato" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fpagina-pessoal.com%2Fcontato&subtitle=Email%20me&size=square" alt="André Lobo - Email">
       </a>
     </td>
-</p>
+  </tr>
+</table>
 
 <table align="center">
   <tr>
