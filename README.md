@@ -105,34 +105,6 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
   </tr>
 </table>
 
-  <tr>
-    <td align="center" width="25%">
-      <a href="#"><img src="images/zuyd_connections.png" alt="Zuyd Connections" width="150"></a>
-    </td>
-    <td align="left" width="75%">
-      <h3><a href="#">Zuyd Connections</a></h3>
-      Uma <a href="#">plataforma</a> web desenvolvida em parceria com a Zuyd University, na Holanda, para apoiar estudantes internacionais na compreensão das diferenças culturais durante uma simulação de negócios. O <a href="#">projeto</a> ajuda a melhorar a colaboração e a comunicação entre equipes multiculturais.
-      <br><br>
-      <details>
-        <summary><b>Tecnologias Utilizadas</b></summary>
-        <br>
-        <table>
-          <tr>
-            <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50"></td>
-            <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="50"></td>
-            <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markdown" width="50"></td>
-            <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="50"></td>
-            <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50"></td>
-            <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="NPM" width="50"></td>
-            <td><img src="https://sailsjs.com/images/logos/sails-logo_lt-bg_lt.svg" alt="Sails.js" width="50"></td>
-            <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="50"></td>
-          </tr>
-        </table>
-      </details>
-    </td>
-  </tr>
-</table>
-
 # 🏢 Experiência Profissional
 **[BTG Pactual](https://www.btgpactual.com/):** Durante meu estágio de férias na área de UX Banking, trabalhei na melhoria da experiência de solicitação de crédito, aplicando gamificação e heurísticas de Nielsen para melhorar a usabilidade e a satisfação do usuário.
 
