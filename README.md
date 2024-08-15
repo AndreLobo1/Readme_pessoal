@@ -20,7 +20,7 @@
     </td>
     <td align="center" style="padding-right: 10px;">
       <a href="mailto:andre.paula@sou.inteli.edu.br" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=gmail&subtitle=andre.paula%40sou.inteli.edu.br&size=square" alt="André Lobo - Email">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=mailto:seu_email&subtitle=Descrição_do_Email&size=square" alt="André Lobo - Email">
       </a>
     </td>
 </p>
