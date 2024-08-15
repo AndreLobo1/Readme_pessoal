@@ -19,12 +19,11 @@
       </a>
     </td>
     <td align="center" style="padding-right: 10px;">
-      <a href="mailto:andre.paula@sou.inteli.edu.br">
-        <img src="https://img.shields.io/badge/Email-andre.paula@sou.inteli.edu.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      <a href="mailto:andre.paula@sou.inteli.edu.br" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=gmail&subtitle=andre.paula%40sou.inteli.edu.br&size=square" alt="André Lobo - Email">
       </a>
     </td>
 </p>
-
 
 <table align="center">
   <tr>
