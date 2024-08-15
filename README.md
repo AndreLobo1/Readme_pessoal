@@ -39,7 +39,7 @@ Atualmente, estou trabalhando em um modelo preditivo de receita em parceria com 
 
 # 📫 Gostaria de me conhecer?
 
-<img align="right" src="images/Design sem nome (1).svg" alt="Imagem Reunião" width="230" height="200">
+<img align="right" src="images/octocat-1723753454918.png" alt="Imagem Reunião" width="230" height="200">
 
 Escolha um horário que seja conveniente para você e vamos conversar sobre qualquer assunto que achar relevante 😊! Por favor, inclua uma breve descrição da agenda para que possamos aproveitar ao máximo nosso encontro.
 
