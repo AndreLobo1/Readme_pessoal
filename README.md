@@ -49,57 +49,53 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
 
 # 🗂️ Projetos em Destaque
 
-## [**Cidade Unilever**](#)
-Este projeto consiste em um jogo interativo desenvolvido para melhorar a experiência de onboarding dos novos funcionários da área de TI da Unilever. O jogo apresenta informações da empresa de maneira envolvente e alinhada aos valores fundamentais da Unilever.
+<table>
+  <tr>
+    <td align="center" width="30%">
+      <a href="#"><img src="images/cidade_unilever.png" alt="Cidade Unilever" width="200"></a>
+    </td>
+    <td align="left" width="70%">
+      <h3><a href="#">Cidade Unilever</a></h3>
+      Este <a href="#">projeto</a> consiste em um jogo interativo desenvolvido para melhorar a experiência de onboarding dos novos funcionários da área de TI da Unilever. O jogo apresenta informações da empresa de maneira envolvente e alinhada aos valores fundamentais da Unilever.
+      <details>
+        <summary><b>Tecnologias Utilizadas</b></summary>
+        <p>
+          <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/Phaser-5A0FC8?style=for-the-badge&logo=phaser&logoColor=white" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </p>
+      </details>
+    </td>
+  </tr>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Phaser-5A0FC8?style=for-the-badge&logo=phaser&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Tiled-58A6FF?style=for-the-badge&logo=tiled&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Librasprite-00A3E0?style=for-the-badge&logo=librasprite&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Kanban-0097A7?style=for-the-badge&logo=kanban&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Scrum-DF5B7F?style=for-the-badge&logo=scrum&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Orientação a Objetos-8CC84D?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Modularização de Código-4A9BFC?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitFlow-7F8C8D?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
-## [**Zuyd Connections**](#)
-Uma plataforma web desenvolvida em parceria com a Zuyd University, na Holanda, para apoiar estudantes internacionais na compreensão das diferenças culturais durante uma simulação de negócios. O projeto ajuda a melhorar a colaboração e a comunicação entre equipes multiculturais.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Kanban-0097A7?style=for-the-badge&logo=kanban&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Scrum-FF6F00?style=for-the-badge&logo=scrum&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Sails.js-000000?style=for-the-badge&logo=sails.js&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Sinon.js-003A34?style=for-the-badge&logo=sinon.js&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/DBeaver-4B92DB?style=for-the-badge&logo=dbeaver&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Render-0050B3?style=for-the-badge&logo=render&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SQL Designer-00BFFF?style=for-the-badge&logo=sql&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Padrão AAA (Arrange-Act-Assert)-7F8C8D?style=for-the-badge&logo=testing&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MVC (Model-View-Controller)-007ACC?style=for-the-badge&logo=architecture&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
-
+  <tr>
+    <td align="center" width="30%">
+      <a href="#"><img src="images/zuyd_connections.png" alt="Zuyd Connections" width="200"></a>
+    </td>
+    <td align="left" width="70%">
+      <h3><a href="#">Zuyd Connections</a></h3>
+      Uma <a href="#">plataforma</a> web desenvolvida em parceria com a Zuyd University, na Holanda, para apoiar estudantes internacionais na compreensão das diferenças culturais durante uma simulação de negócios. O <a href="#">projeto</a> ajuda a melhorar a colaboração e a comunicação entre equipes multiculturais.
+      <details>
+        <summary><b>Tecnologias Utilizadas</b></summary>
+        <p>
+          <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+          <img src="https://img.shields.io/badge/Sails.js-000000?style=for-the-badge&logo=sails.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+        </p>
+      </details>
+    </td>
+  </tr>
+</table>
 
 # 🏢 Experiência Profissional
 **[BTG Pactual](https://www.btgpactual.com/):** Durante meu estágio de férias na área de UX Banking, trabalhei na melhoria da experiência de solicitação de crédito, aplicando gamificação e heurísticas de Nielsen para melhorar a usabilidade e a satisfação do usuário.
