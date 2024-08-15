@@ -23,7 +23,7 @@
 </table>
 
 <p align="center">
-  <sub><a href="README_pt.md">Versão em Português</a></sub>
+  <sub><a href="README_pt.md">Versão em Português</a></sub> •
   <sub><a href="README_en.md">English Version</a></sub>
 </p>
 
