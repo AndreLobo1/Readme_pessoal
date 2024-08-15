@@ -144,17 +144,33 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
   </tr>
 </table>
 
-# 📊 Projeto Atual
-**Rede Gazeta:** Estou atualmente desenvolvendo um modelo preditivo para previsão de receitas publicitárias, utilizando técnicas de análise de dados e machine learning, em parceria com a [Rede Gazeta do Espírito Santo](https://www.gazetaonline.com.br/).
+## 📊 Projeto Atual
 
-# 📚 Estou Aprendendo
-Atualmente, estou me aprofundando em modelagem preditiva e inteligência artificial, utilizando tecnologias como:
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="#"><img src="images/rede_gazeta.png" alt="Rede Gazeta" width="150" style="max-width: 150px; height: auto;"></a>
+    </td>
+    <td align="left" width="75%">
+      <h3><a href="#">Rede Gazeta</a></h3>
+      Estou atualmente desenvolvendo um modelo preditivo para previsão de receitas publicitárias, utilizando técnicas de análise de dados e machine learning, em parceria com a <a href="#">Rede Gazeta do Espírito Santo</a>.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
+
+## 📚 Estou Aprendendo
+
+Atualmente, estou me aprofundando em modelagem preditiva e inteligência artificial, utilizando as seguintes tecnologias:
+
+<table>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" alt="Python" width="50"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="50"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/TensorFlow_logo.svg" alt="TensorFlow" width="50"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="50"></td>
+  </tr>
+</table>
+
 
 # Ferramentas e Tecnologias
 
