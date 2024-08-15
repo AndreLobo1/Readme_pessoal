@@ -105,12 +105,44 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
   </tr>
 </table>
 
-# 🏢 Experiência Profissional
-**[BTG Pactual](https://www.btgpactual.com/):** Durante meu estágio de férias na área de UX Banking, trabalhei na melhoria da experiência de solicitação de crédito, aplicando gamificação e heurísticas de Nielsen para melhorar a usabilidade e a satisfação do usuário.
+## 🏢 Experiência Profissional
 
-# 🎓 Formação Acadêmica
-**[Inteli](https://www.inteli.edu.br/):** Estudante de Engenharia de Software, aprovado com bolsa integral e auxílios. Desenvolvo soluções inovadoras e projetos em parceria com empresas reais, aplicando metodologias ágeis e práticas de mercado.
-**[Univesp](https://univesp.br/):** Estudante de tecnologia da informação. Aprovado em 5º lugar. Participo de projetos integradores que aplicam conhecimentos adquiridos em sala de aula para resolver problemas reais.
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="#"><img src="images/btg_pactual.png" alt="BTG Pactual" width="150" style="max-width: 150px; height: auto;"></a>
+    </td>
+    <td align="left" width="75%">
+      <h3><a href="#">BTG Pactual</a></h3>
+      Durante meu estágio de férias na área de UX Banking, trabalhei na melhoria da experiência de solicitação de crédito, aplicando gamificação e heurísticas de Nielsen para melhorar a usabilidade e a satisfação do usuário.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 🎓 Formação Acadêmica
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="#"><img src="images/inteli_logo.png" alt="Inteli" width="150" style="max-width: 150px; height: auto;"></a>
+    </td>
+    <td align="left" width="75%">
+      <h3><a href="#">Inteli</a></h3>
+      Estudante de Engenharia de Software, aprovado com bolsa integral e auxílios. Desenvolvo soluções inovadoras e projetos em parceria com empresas reais, aplicando metodologias ágeis e práticas de mercado.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="#"><img src="images/univesp_logo.png" alt="Univesp" width="150" style="max-width: 150px; height: auto;"></a>
+    </td>
+    <td align="left" width="75%">
+      <h3><a href="#">Univesp</a></h3>
+      Estudante de Tecnologia da Informação, aprovado em 5º lugar. Participo de projetos integradores que aplicam conhecimentos adquiridos em sala de aula para resolver problemas reais.
+    </td>
+  </tr>
+</table>
 
 # 📊 Projeto Atual
 **Rede Gazeta:** Estou atualmente desenvolvendo um modelo preditivo para previsão de receitas publicitárias, utilizando técnicas de análise de dados e machine learning, em parceria com a [Rede Gazeta do Espírito Santo](https://www.gazetaonline.com.br/).
