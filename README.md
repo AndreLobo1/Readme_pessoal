@@ -3,22 +3,28 @@
 </h1>
 
 <p align="center">
-  <td align="center">
+  <td align="center" style="padding-right: 10px;">
       <a href="https://www.linkedin.com/in/andre-lobo-dev/" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandre-lobo-dev%2F&subtitle=@andre-lobo-dev&size=square" alt="André Lobo - LinkedIn">
       </a>
     </td>
-    <td align="center">
-      <a href="mailto:andre.paula@sou.inteli.edu.br" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=mailto%3Aandre.paula%40sou.inteli.edu.br&subtitle=Email&size=square" alt="André Lobo - Email">
-      </a>
-    </td>
-    <td align="center">
+    <td align="center" style="padding-right: 10px;">
       <a href="https://github.com/AndreLobo1" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FAndreLobo1&subtitle=%2FAndreLobo1&size=square" alt="André Lobo - GitHub">
       </a>
     </td>
+    <td align="center" style="padding-right: 10px;">
+      <a href="https://instagram.com/seu_instagram" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Finstagram.com%2Fseu_instagram&subtitle=@seu_instagram&size=square" alt="André Lobo - Instagram">
+      </a>
+    </td>
+    <td align="center" style="padding-right: 10px;">
+      <a href="mailto:andre.paula@sou.inteli.edu.br">
+        <img src="https://img.shields.io/badge/Email-andre.paula@sou.inteli.edu.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      </a>
+    </td>
 </p>
+
 
 <table align="center">
   <tr>
