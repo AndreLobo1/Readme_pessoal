@@ -51,46 +51,46 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
 
 <table>
   <tr>
-    <td align="center" width="30%">
-      <a href="#"><img src="images/cidade_unilever.png" alt="Cidade Unilever" width="200"></a>
+    <td align="center" width="25%">
+      <a href="#"><img src="images/cidade_unilever.png" alt="Cidade Unilever" width="150"></a>
     </td>
-    <td align="left" width="70%">
+    <td align="left" width="75%" style="padding-left: 20px;">
       <h3><a href="#">Cidade Unilever</a></h3>
       Este <a href="#">projeto</a> consiste em um jogo interativo desenvolvido para melhorar a experiência de onboarding dos novos funcionários da área de TI da Unilever. O jogo apresenta informações da empresa de maneira envolvente e alinhada aos valores fundamentais da Unilever.
       <details>
         <summary><b>Tecnologias Utilizadas</b></summary>
-        <p>
-          <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/Phaser-5A0FC8?style=for-the-badge&logo=phaser&logoColor=white" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <p style="padding-top: 10px;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40">
+          <img src="https://phaser.io/images/logo.png" alt="Phaser" width="40">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="40">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40">
         </p>
       </details>
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="30%">
-      <a href="#"><img src="images/zuyd_connections.png" alt="Zuyd Connections" width="200"></a>
+    <td align="center" width="25%">
+      <a href="#"><img src="images/zuyd_connections.png" alt="Zuyd Connections" width="150"></a>
     </td>
-    <td align="left" width="70%">
+    <td align="left" width="75%" style="padding-left: 20px;">
       <h3><a href="#">Zuyd Connections</a></h3>
       Uma <a href="#">plataforma</a> web desenvolvida em parceria com a Zuyd University, na Holanda, para apoiar estudantes internacionais na compreensão das diferenças culturais durante uma simulação de negócios. O <a href="#">projeto</a> ajuda a melhorar a colaboração e a comunicação entre equipes multiculturais.
       <details>
         <summary><b>Tecnologias Utilizadas</b></summary>
-        <p>
-          <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-          <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-          <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-          <img src="https://img.shields.io/badge/Sails.js-000000?style=for-the-badge&logo=sails.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+        <p style="padding-top: 10px;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markdown" width="40">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="40">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="NPM" width="40">
+          <img src="https://sailsjs.com/images/logos/sails-logo_lt-bg_lt.svg" alt="Sails.js" width="40">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40">
         </p>
       </details>
     </td>
