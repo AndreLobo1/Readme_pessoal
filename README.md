@@ -154,6 +154,10 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
     <td align="left" width="75%">
       <h3><a href="#">Rede Gazeta</a></h3>
       Estou atualmente desenvolvendo um modelo preditivo para previsão de receitas publicitárias, utilizando técnicas de análise de dados e machine learning, em parceria com a <a href="#">Rede Gazeta do Espírito Santo</a>.
+    </td>
+  </tr>
+</table>
+
 
 
 ## 📚 Estou Aprendendo
@@ -170,6 +174,7 @@ Atualmente, estou me aprofundando em modelagem preditiva e inteligência artific
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="50"></td>
   </tr>
 </table>
+
 
 
 # Ferramentas e Tecnologias
