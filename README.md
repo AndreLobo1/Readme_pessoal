@@ -25,8 +25,8 @@
 
 <div align="center">
   <sub>
-    <a href="README_pt.md"><b>Versão em Português</b></a> •
     <a href="README_en.md"><b>English Version</b></a>
+    <a href="README_pt.md"><b>Versão em Português</b></a> •
   </sub>
 </div>
 
