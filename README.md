@@ -22,12 +22,11 @@
   </tr>
 </table>
 
-<table align="center">
-  <tr>
-    <td align="center"><a href="README.md"><img src="images/image (1).png" height="13" style="vertical-align:middle"> English</a></td>
-    <td align="center"><a href="README_pt.md"><img src="images/image.png" height="13" style="vertical-align:middle"> Português</a></td>
-  </tr>
-</table>
+<p align="center">
+  <sub><a href="README_pt.md">Versão em Português</a></sub> |
+  <sub><a href="README_en.md">English Version</a></sub>
+</p>
+
 
 # 🧑‍💻 Sobre Mim
 
