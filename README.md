@@ -59,38 +59,60 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
 					</a>
 					<p>
 						<a href="#" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
 					<p><strong>HTML, CSS, JavaScript, Phaser, Node.js</strong></p>
           <p>
             Projeto realizado em Janeiro de 2022. <br> Jogo interativo desenvolvido para melhorar o onboarding dos funcionários da área de TI da Unilever.
 					</p>
+					<details>
+						<summary><b>Tecnologias Utilizadas</b></summary>
+						<br>
+						<table>
+							<tr>
+								<td><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50"></td>
+								<td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="50"></td>
+								<td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50"></td>
+								<td><img src="https://phaser.io/images/logo.png" alt="Phaser" width="50"></td>
+								<td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="50"></td>
+							</tr>
+						</table>
+					</details>
 				</div>
 			</td>
+		</tr>
+		<tr>
 			<td width="50%">
 				<h3 align="center">Zuyd Connections</h3>
-				<div align="center" >  
-					<a href='#' target="_blank">
+				<div align="center">  
+					<a href='#'>
 						<img src="images/zuyd_connections.png" alt="Zuyd Connections" height="150" />
 					</a>
 					<p>
 						<a href="#" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="#" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>	
+						</a>
 					</p>
 					<p><strong>HTML, Tailwind CSS, React, NodeJS</strong></p>
-          <p>
-            Projeto realizado em Março de 2022. <br> Plataforma web desenvolvida para apoiar estudantes internacionais em uma simulação de negócios.
+					<p>
+						Projeto realizado em Março de 2022. <br> Plataforma web desenvolvida para apoiar estudantes internacionais em uma simulação de negócios.
 					</p>
+					<details>
+						<summary><b>Tecnologias Utilizadas</b></summary>
+						<br>
+						<table>
+							<tr>
+								<td><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50"></td>
+								<td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="50"></td>
+								<td><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markdown" width="50"></td>
+								<td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="50"></td>
+							</tr>
+						</table>
+					</details>
 				</div>
-        </tr>
+			</td>
+		</tr>
 	</table>
 </div>
 
@@ -101,20 +123,49 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
 			<td width="50%">
 				<h3 align="center">BTG Pactual</h3>
 				<div align="center">  
-					<a href='#' target="_blank">
+					<a href='#'>
 						<img src="images/btg_pactual.png" alt="BTG Pactual" height="150" />
 					</a>
-					<p>
-						<a href="#" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  	
-					</p>
 					<p><strong>UX Banking, Gamificação</strong></p>
           <p>
             Estágio de férias realizado em Julho de 2022. <br> Atuei na melhoria da experiência de solicitação de crédito, aplicando heurísticas de Nielsen.
 					</p>
 				</div>
         </tr>
+	</table>
+</div>
+
+## 📊 Projeto Atual e Aprendizados <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" height="32px">
+<div align="center">
+	<table>
+		<tr>
+			<td width="50%">
+				<h3 align="center">Modelo Preditivo de Receita</h3>
+				<div align="center">  
+					<a href='#'>
+						<img src="images/rede_gazeta.png" alt="Rede Gazeta" height="150" />
+					</a>
+					<p><strong>Python, Pandas, Scikit-learn, Machine Learning</strong></p>
+					<p>Projeto em andamento iniciado em Junho de 2023.<br>
+						Estou desenvolvendo um modelo preditivo para a previsão de receitas publicitárias em parceria com a Rede Gazeta do Espírito Santo.
+					</p>
+					<details>
+						<summary><b>Através deste projeto estou aprendendo</b></summary>
+						<br>
+						<table>
+							<tr>
+								<td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" alt="Python" width="50"></td>
+								<td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50"></td>
+								<td><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="50"></td>
+								<td><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50"></td>
+								<td><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/TensorFlow_logo.svg" alt="TensorFlow" width="50"></td>
+								<td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="50"></td>
+							</tr>
+						</table>
+					</details>
+				</div>
+			</td>
+		</tr>
 	</table>
 </div>
 
