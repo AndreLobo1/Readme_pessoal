@@ -39,7 +39,7 @@ Atualmente, estou trabalhando em um modelo preditivo de receita em parceria com 
 
 # 📫 Gostaria de me conhecer?
 
-<img align="right" src="images/octocat-1723753454918.png" alt="Imagem Reunião" width="250" height="250" style="margin-bottom: 20px;">
+<img src="images/octocat-1723753454918.png" alt="Imagem Reunião" width="250" height="250" style="float: left; margin-right: 20px; margin-bottom: 20px;">
 
 Escolha um horário que seja conveniente para você e vamos conversar sobre qualquer assunto que achar relevante 😊! Por favor, inclua uma breve descrição da agenda para que possamos aproveitar ao máximo nosso encontro.
 
@@ -48,7 +48,6 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
 </a>
 
 <br><br>
-
 
 ## ⚙️ Projetos <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px">
 <div align="center">
