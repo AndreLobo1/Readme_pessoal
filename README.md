@@ -65,8 +65,8 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-          <p>
-            Projeto realizado em Janeiro de 2022. <br> Jogo interativo desenvolvido para melhorar o onboarding dos funcionários da área de TI da Unilever.
+					<p>
+						Projeto realizado em Janeiro de 2022. <br> Jogo interativo desenvolvido para melhorar o onboarding dos funcionários da área de TI da Unilever.
 					</p>
 					<details>
 						<summary><b>Tecnologias Utilizadas</b></summary>
@@ -83,8 +83,6 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
 					</details>
 				</div>
 			</td>
-		</tr>
-		<tr>
 			<td width="50%">
 				<h3 align="center">Zuyd Connections</h3>
 				<div align="center">  
@@ -119,6 +117,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
 		</tr>
 	</table>
 </div>
+
 
 ## 🏢 Experiência Profissional <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="32px">
 <div align="center">
