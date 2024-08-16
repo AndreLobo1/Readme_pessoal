@@ -37,15 +37,15 @@ Olá! Eu sou André Lobo, estudante do primeiro ano de Engenharia de Software no
 
 Atualmente, estou trabalhando em um modelo preditivo de receita em parceria com a [Rede Gazeta do Espírito Santo](https://www.gazetaonline.com.br/), o que tem sido uma experiência enriquecedora. Estou constantemente explorando novas oportunidades para crescer e contribuir para a sociedade através da tecnologia.
 
-# 📫 Gostaria de me conhecer? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+# 📫 Gostaria de me conhecer?
+
+<img align="right" src="images/octocat-1723753454918.png" alt="Imagem Reunião" width="250" height="250" style="margin-bottom: 20px;">
 
 Escolha um horário que seja conveniente para você e vamos conversar sobre qualquer assunto que achar relevante 😊! Por favor, inclua uma breve descrição da agenda para que possamos aproveitar ao máximo nosso encontro.
 
 <a href="https://calendly.com/andrelobo/papo-com-andre-lobo" target="_blank">
     <img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png">
 </a>
-
-<img align="right" src="images/octocat-1723753454918.png" alt="Imagem Octocat" width="250" height="250" style="margin-bottom: 20px;">
 
 <br><br>
 
