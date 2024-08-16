@@ -2,11 +2,6 @@
   <img src="https://cardivo.vercel.app/api?name=André%20Lobo&description=Engenheiro%20de%20Software%20em%20Formação&image=https://raw.githubusercontent.com/AndreLobo1/AndreLobo1/main/images/andre_lobo.jpg&backgroundColor=%23ffffff&instagram=andre.lobo&linkedin=andre-lobo-dev&github=AndreLobo1&iconColor=%23000000&animation=true" />
 </h1>
 
-
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=001f62&text=André%20Lobo&textBg=false&section=header&reversal=false&fontAlign=50&animation=fadeIn&stroke=450695&strokeWidth=2&desc=Engenheiro%20de%20software%20em%20formação&fontColor=a0a0a0" />
-</h1>
-
 <table align="center">
   <tr>
     <td align="center" style="padding-right: 10px;">
