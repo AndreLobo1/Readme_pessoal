@@ -43,7 +43,7 @@ Atualmente, estou trabalhando em um modelo preditivo de receita em parceria com 
 
 # 📫 Gostaria de me conhecer?
 
-<img align="right" src="images/octocat-1723753454918.png" alt="Imagem Reunião" width="250" height="250">
+<img align="right" src="images/octocat-1723753454918.png" alt="Imagem Reunião" width="250" height="250" style="margin-bottom: 20px;">
 
 Escolha um horário que seja conveniente para você e vamos conversar sobre qualquer assunto que achar relevante 😊! Por favor, inclua uma breve descrição da agenda para que possamos aproveitar ao máximo nosso encontro.
 
@@ -51,7 +51,10 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
     <img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png">
 </a>
 
+<br><br>
+
 # 🗂️ Projetos em Destaque
+
 
 <table>
   <tr>
