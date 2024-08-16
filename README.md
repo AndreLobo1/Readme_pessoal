@@ -58,11 +58,13 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
 						<img src="images/cidade_unilever.png" alt="Cidade Unilever" height="150" />
 					</a>
 					<p>
+						<a href="https://github.com/your-repo-url" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
 						<a href="#" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p><strong>HTML, CSS, JavaScript, Phaser, Node.js</strong></p>
           <p>
             Projeto realizado em Janeiro de 2022. <br> Jogo interativo desenvolvido para melhorar o onboarding dos funcionários da área de TI da Unilever.
 					</p>
@@ -90,11 +92,13 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
 						<img src="images/zuyd_connections.png" alt="Zuyd Connections" height="150" />
 					</a>
 					<p>
+						<a href="https://github.com/your-repo-url" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
 						<a href="#" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p><strong>HTML, Tailwind CSS, React, NodeJS</strong></p>
 					<p>
 						Projeto realizado em Março de 2022. <br> Plataforma web desenvolvida para apoiar estudantes internacionais em uma simulação de negócios.
 					</p>
@@ -145,8 +149,8 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
 					<a href='#'>
 						<img src="images/rede_gazeta.png" alt="Rede Gazeta" height="150" />
 					</a>
-					<p><strong>Python, Pandas, Scikit-learn, Machine Learning</strong></p>
-					<p>Projeto em andamento iniciado em Junho de 2023.<br>
+					<p>
+						Projeto em andamento iniciado em Junho de 2023.<br>
 						Estou desenvolvendo um modelo preditivo para a previsão de receitas publicitárias em parceria com a Rede Gazeta do Espírito Santo.
 					</p>
 					<details>
@@ -185,49 +189,6 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
         </tr>
 	</table>
 </div>
-
-## 📊 Projeto Atual e Aprendizados <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" height="32px">
-<div align="center">
-	<table>
-		<tr>
-			<td width="50%">
-				<h3 align="center">Modelo Preditivo de Receita</h3>
-				<div align="center">  
-										<a href='#'>
-						<img src="images/rede_gazeta.png" alt="Rede Gazeta" height="150" />
-					</a>
-					<p>
-						<a href="#" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="#" target="_blank">
-							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>	
-					</p>
-					<p><strong>Python, Pandas, Scikit-learn, Machine Learning</strong></p>
-					<p>Projeto em andamento iniciado em Junho de 2023.<br>
-						Estou desenvolvendo um modelo preditivo para a previsão de receitas publicitárias em parceria com a Rede Gazeta do Espírito Santo.</p>
-				</div>
-			</td>
-		</tr>
-	</table>
-</div>
-
-### Através deste projeto estou aprendendo:
-<details>
-  <summary><b>Tecnologias Utilizadas</b></summary>
-  <br>
-  <table>
-    <tr>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" alt="Python" width="50"></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50"></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="50"></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50"></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/TensorFlow_logo.svg" alt="TensorFlow" width="50"></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="50"></td>
-    </tr>
-  </table>
-</details>
 
 ## 🛠️ Ferramentas e Tecnologias <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/tools.gif" height="30px">
 
