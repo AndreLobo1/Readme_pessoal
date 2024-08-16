@@ -20,14 +20,12 @@
       </a>
     </td>
     <td align="center" style="padding-right: 10px;">
-      <a href="https://buymeacoffee.com/andrelobo" target="_blank">
-        <img src="https://bmc.link/assets/img/custom_images/orange_img.png" alt="Buy me a coffee" style="height: 100px;">
+      <a href="https://buymeacoffee.com/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fbuymeacoffee.com%2F&size=square" alt="Buy Me a Coffee">
       </a>
     </td>
   </tr>
 </table>
-
-
 
 # 👋 Hello, World! Sou o André Lobo <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
