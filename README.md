@@ -320,14 +320,10 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
   </table>
 </details>
 
-<p align="center">Ajude a impulsionar esse projeto, clique nas ⭐ dos repositórios para apoiar!</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=3000&pause=1000&color=195AB4&center=true&vCenter=true&width=435&lines=Obrigado+pela+visita!+Volte+sempre!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Obrigado+pela+visita!+;Explore+meus+repositórios!+;Volte+sempre!" alt="Typing SVG" />
-</p>
+<p align="center">Ajude a impulsionar esse projeto, clique nas ⭐ dos repositórios para apoiar!</p>
 
 <p align="center">⬇️Aqui estão alguns dos meus projetos mais recentes, explore e contribua se possível⬇!⬇️</p>
