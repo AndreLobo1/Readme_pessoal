@@ -304,4 +304,8 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
   <img src="https://img.shields.io/badge/Voltar_ao_topo-0097A7?style=for-the-badge&logo=up-arrow&logoColor=white" alt="Voltar ao topo" />
 </a>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Obrigado+pela+visita!+;Explore+meus+repositórios!+;Volte+sempre!" alt="Typing SVG" />
+</p>
+
 <p align="center">⬇️Aqui estão alguns dos meus projetos mais recentes, explore e contribua se possível⬇!⬇️</p>
