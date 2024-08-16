@@ -2,11 +2,6 @@
   <img src="https://cardivo.vercel.app/api?name=André%20Lobo&description=Engenheiro%20de%20Software%20em%20formação,%20apaixonado%20por%20tecnologia%20e%20inovação.%20Busco%20desafios%20que%20me%20permitam%20crescer%20e%20contribuir%20para%20projetos%20que%20impactam%20positivamente%20a%20sociedade.&image=https://raw.githubusercontent.com/AndreLobo1/AndreLobo1/main/images/andre_lobo.jpg&backgroundColor=%23ffffff&animation=true" />
 </h1>
 
-<div align="center">
-  <a href="README_en.md"><b>English Version</b></a> |
-  <a href="README_pt.md"><b>Versão em Português</b></a>
-</div>
-
 <table align="center">
   <tr>
     <td align="center" style="padding-right: 10px;">
@@ -20,12 +15,19 @@
       </a>
     </td>
     <td align="center" style="padding-right: 10px;">
+      <a href="https://instagram.com/seu_instagram" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Finstagram.com%2Fseu_instagram&subtitle=@seu_instagram&size=square" alt="André Lobo - Instagram">
+      </a>
+    </td>
+    <td align="center" style="padding-right: 10px;">
       <a href="https://buymeacoffee.com/andrelobo" target="_blank">
-        <img src="https://bmc.link/assets/img/custom_images/orange_img.png" alt="Buy me a coffee">
+        <img src="https://bmc.link/assets/img/custom_images/orange_img.png" alt="Buy me a coffee" style="height: 100px;">
       </a>
     </td>
   </tr>
 </table>
+
+
 
 # 👋 Hello, World! Sou o André Lobo <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
