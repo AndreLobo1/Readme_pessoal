@@ -45,7 +45,10 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
     <img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png">
 </a>
 
+<img align="right" src="images/octocat-1723753454918.png" alt="Imagem Octocat" width="250" height="250" style="margin-bottom: 20px;">
+
 <br><br>
+
 
 ## ⚙️ Projetos <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px">
 <div align="center">
