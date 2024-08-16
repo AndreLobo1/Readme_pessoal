@@ -79,8 +79,17 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
 								<td><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50"></td>
 								<td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="50"></td>
 								<td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50"></td>
-								<td><img src="https://phaser.io/images/logo.png" alt="Phaser" width="50"></td>
 								<td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="50"></td>
+								<td><img src="https://phaser.io/images/logo.png" alt="Phaser" width="50"></td>
+								<td><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markdown" width="50"></td>
+							</tr>
+							<tr>
+								<td><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="50"></td>
+								<td><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50"></td>
+								<td><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/TensorFlow_logo.svg" alt="SQL" width="50"></td>
+								<td><img src="https://phaser.io/images/logo.png" alt="DBeaver" width="50"></td>
+								<td><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Node.js_logo_2020.svg" alt="NPM" width="50"></td>
+								<td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NPM" width="50"></td>
 							</tr>
 						</table>
 					</details>
@@ -110,8 +119,16 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
 							<tr>
 								<td><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50"></td>
 								<td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="50"></td>
+								<td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50"></td>
 								<td><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markdown" width="50"></td>
-								<td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="50"></td>
+								<td><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/TensorFlow_logo.svg" alt="Git" width="50"></td>
+								<td><img src="https://phaser.io/images/logo.png" alt="Figma" width="50"></td>
+							</tr>
+							<tr>
+								<td><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Phaser" width="50"></td>
+								<td><img src="https://phaser.io/images/logo.png" alt="Figma" width="50"></td>
+								<td><img src="https://phaser.io/images/logo.png" alt="Git" width="50"></td>
+								<td><img src="https://phaser.io/images/logo.png" alt="Slack" width="50"></td>
 							</tr>
 						</table>
 					</details>
