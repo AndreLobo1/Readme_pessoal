@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://cardivo.vercel.app/api?name=André%20Lobo&description=Engenheiro%20de%20Software%20e%20Entusiasta%20de%20Tecnologia&github=AndreLobo1&linkedin=andre-lobo-dev&instagram=andre.lobo&backgroundColor=2d243f&iconColor=195ab4&animation=true&avatar=https://raw.githubusercontent.com/AndreLobo1/AndreLobo1/main/images/andre_lobo.jpg" />
+  <img src="https://cardivo.vercel.app/api?name=André%20Lobo&description=Engenheiro%20de%20Software%20em%20Formação&image=https://raw.githubusercontent.com/AndreLobo1/AndreLobo1/main/images/andre_lobo.jpg&backgroundColor=%232d243f&instagram=andre.lobo&linkedin=andre-lobo-dev&github=AndreLobo1&pattern=leaf&colorPattern=%23195ab4&animation=true" />
 </div>
+
 
 
 <h1 align="center">
