@@ -31,32 +31,11 @@
 </div>
 
 
-<h2 align="center">
-  <span style="display: inline-block; animation: wave 2s infinite;">👋</span> 
-  Hello, World! Sou o André Lobo
-</h2>
+# 👋 Hello, World! Sou o André Lobo
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=2500&color=195AB4&lines=Engenheiro+de+Software+em+Formação;Eterno+Estudante;Voluntário;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=4000&pause=800&color=195AB4&center=true&vCenter=true&width=500&lines=Engenheiro+de+Software+em+Formação;Eterno+Estudante;Voluntário;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 </p>
-
-<style>
-  @keyframes wave {
-    0% { transform: rotate(0.0deg); }
-    10% { transform: rotate(14deg); }
-    20% { transform: rotate(-8deg); }
-    30% { transform: rotate(14deg); }
-    40% { transform: rotate(-4deg); }
-    50% { transform: rotate(10.0deg); }
-    60% { transform: rotate(0.0deg); }
-    100% { transform: rotate(0.0deg); }
-  }
-  span {
-    display: inline-block;
-    animation: wave 2s infinite;
-  }
-</style>
-
 
 Olá! Eu sou André Lobo, estudante do primeiro ano de Engenharia de Software no [Inteli](https://www.inteli.edu.br/). No Inteli, a metodologia baseada em projetos me permite aplicar meus conhecimentos na prática, o que é fundamental para meu desenvolvimento acadêmico e profissional. Sou apaixonado por tecnologia e inovação, sempre buscando novos desafios e aprendizados. Além disso, tenho um forte interesse por causas sociais e procuro integrar essas paixões em meus projetos.
 
