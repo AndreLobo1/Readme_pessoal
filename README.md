@@ -154,7 +154,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
 				<h3 align="center">Modelo Preditivo de Receita</h3>
 				<div align="center">  
 					<a href='#'>
-						<img src="images/rede_gazeta.png" alt="Rede Gazeta" height="150" />
+						<img src="images/redeGazeta.png" alt="Rede Gazeta" height="150" />
 					</a>
 					<p>
 						Projeto em andamento iniciado em Junho de 2023.<br>
