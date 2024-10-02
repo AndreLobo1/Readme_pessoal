@@ -58,9 +58,9 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
         <h3 align="center">Cidade Unilever</h3>
         <div align="center">  
           <a href='#'>
-            <img src="images/cidadeUnilever.jpg" alt="Cidade Unilever" height="150" style="margin-bottom: 15px;" />
+            <img src="images/cidadeUnilever.jpg" alt="Cidade Unilever" height="150" />
           </a>
-          <p>
+          <p style="margin-top: 15px;">
             <a href="https://github.com/your-repo-url" target="_blank">
               <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
@@ -71,15 +71,15 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
           <p>
             Projeto realizado em Janeiro de 2022. <br> Jogo interativo desenvolvido para melhorar o onboarding dos funcionários da área de TI da Unilever.
           </p>
-          <details style="overflow: hidden;">
+          <details>
             <summary><b>Tecnologias Utilizadas</b></summary>
-            <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-top: 10px; margin-bottom: 20px;">
-              <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin: 5px;">
-              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin: 5px;">
-              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 5px;">
-              <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" style="margin: 5px;">
-              <img src="https://img.shields.io/badge/Phaser-5A0FC8?style=for-the-badge&logo=phaser&logoColor=white" alt="Phaser" style="margin: 5px;">
-            </div>
+            <p style="margin-top: 15px;">
+              <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+              <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+              <img src="https://img.shields.io/badge/Phaser-5A0FC8?style=for-the-badge&logo=phaser&logoColor=white" alt="Phaser">
+            </p>
           </details>
         </div>
       </td>
@@ -87,9 +87,9 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
         <h3 align="center">Zuyd Connections</h3>
         <div align="center">  
           <a href='#'>
-            <img src="images/zuyd.jpg" alt="Zuyd Connections" height="150" style="margin-bottom: 15px;" />
+            <img src="images/zuyd.jpg" alt="Zuyd Connections" height="150" />
           </a>
-          <p>
+          <p style="margin-top: 15px;">
             <a href="https://github.com/your-repo-url" target="_blank">
               <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
@@ -100,21 +100,22 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
           <p>
             Projeto realizado em Março de 2022. <br> Plataforma web desenvolvida para apoiar estudantes internacionais em uma simulação de negócios.
           </p>
-          <details style="overflow: hidden;">
+          <details>
             <summary><b>Tecnologias Utilizadas</b></summary>
-            <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-top: 10px; margin-bottom: 20px;">
-              <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin: 5px;">
-              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin: 5px;">
-              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 5px;">
-              <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" style="margin: 5px;">
-              <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" style="margin: 5px;">
-            </div>
+            <p style="margin-top: 15px;">
+              <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+              <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+              <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+            </p>
           </details>
         </div>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 ## 🏢 Experiência Profissional <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="32px">
