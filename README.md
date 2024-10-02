@@ -58,7 +58,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
         <h3 align="center">Cidade Unilever</h3>
         <div align="center">  
           <a href='#'>
-            <img src="images/cidadeUnilever.jpg" alt="Cidade Unilever" height="150" />
+            <img src="images/cidadeUnilever.jpg" alt="Cidade Unilever" height="150" width="200" />
           </a>
           <p style="margin-top: 15px;">
             <a href="https://github.com/your-repo-url" target="_blank">
@@ -87,7 +87,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
         <h3 align="center">Zuyd Connections</h3>
         <div align="center">  
           <a href='#'>
-            <img src="images/zuyd.jpg" alt="Zuyd Connections" height="150" />
+            <img src="images/zuyd.jpg" alt="Zuyd Connections" height="150" width="200" />
           </a>
           <p style="margin-top: 15px;">
             <a href="https://github.com/your-repo-url" target="_blank">
@@ -116,26 +116,35 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
   </table>
 </div>
 
-
-
 ## 🏢 Experiência Profissional <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="32px">
 <div align="center">
-	<table>
-		<tr>
-			<td width="50%">
-				<h3 align="center">BTG Pactual</h3>
-				<div align="center">  
-					<a href='#'>
-						<img src="images/btg.png" alt="BTG Pactual" height="150" />
-					</a>
-					<p><strong>UX Banking, Gamificação</strong></p>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">BTG Pactual</h3>
+        <div align="center">  
+          <a href='#'>
+            <img src="images/btg.png" alt="BTG Pactual" height="150" width="200" />
+          </a>
+          <p><strong>UX Banking, Gamificação</strong></p>
           <p>
             Estágio de férias realizado em Julho de 2022. <br> Atuei na melhoria da experiência de solicitação de crédito, aplicando heurísticas de Nielsen.
-					</p>
-				</div>
-        </tr>
-	</table>
+          </p>
+          <details>
+            <summary><b>Tecnologias Utilizadas</b></summary>
+            <p style="margin-top: 15px;">
+              <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+              <img src="https://img.shields.io/badge/Scrum-FF6F00?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum">
+              <img src="https://img.shields.io/badge/UX-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="UX">
+              <img src="https://img.shields.io/badge/UI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="UI">
+            </p>
+          </details>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ## 📊 Projeto Atual e Aprendizados <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" height="32px">
 <div align="center">
