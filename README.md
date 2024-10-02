@@ -52,90 +52,74 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
 
 ## ⚙️ Projetos <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px">
 <div align="center">
-	<table>
-		<tr>
-			<td width="50%">
-				<h3 align="center">Cidade Unilever</h3>
-				<div align="center">  
-					<a href='#'>
-						<img src="images/cidade_unilever.png" alt="Cidade Unilever" height="150" />
-					</a>
-					<p>
-						<a href="https://github.com/your-repo-url" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="#" target="_blank">
-							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>
-					</p>
-					<p>
-						Projeto realizado em Janeiro de 2022. <br> Jogo interativo desenvolvido para melhorar o onboarding dos funcionários da área de TI da Unilever.
-					</p>
-					<details>
-						<summary><b>Tecnologias Utilizadas</b></summary>
-						<br>
-						<table>
-							<tr>
-								<td><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50"></td>
-								<td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="50"></td>
-								<td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50"></td>
-								<td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="50"></td>
-								<td><img src="https://phaser.io/images/logo.png" alt="Phaser" width="50"></td>
-								<td><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markdown" width="50"></td>
-							</tr>
-							<tr>
-								<td><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="50"></td>
-								<td><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50"></td>
-								<td><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/TensorFlow_logo.svg" alt="SQL" width="50"></td>
-								<td><img src="https://phaser.io/images/logo.png" alt="DBeaver" width="50"></td>
-								<td><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Node.js_logo_2020.svg" alt="NPM" width="50"></td>
-								<td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NPM" width="50"></td>
-							</tr>
-						</table>
-					</details>
-				</div>
-			</td>
-			<td width="50%">
-				<h3 align="center">Zuyd Connections</h3>
-				<div align="center">  
-					<a href='#'>
-						<img src="images/zuyd_connections.png" alt="Zuyd Connections" height="150" />
-					</a>
-					<p>
-						<a href="https://github.com/your-repo-url" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="#" target="_blank">
-							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>
-					</p>
-					<p>
-						Projeto realizado em Março de 2022. <br> Plataforma web desenvolvida para apoiar estudantes internacionais em uma simulação de negócios.
-					</p>
-					<details>
-						<summary><b>Tecnologias Utilizadas</b></summary>
-						<br>
-						<table>
-							<tr>
-								<td><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50"></td>
-								<td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="50"></td>
-								<td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50"></td>
-								<td><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markdown" width="50"></td>
-								<td><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/TensorFlow_logo.svg" alt="Git" width="50"></td>
-								<td><img src="https://phaser.io/images/logo.png" alt="Figma" width="50"></td>
-							</tr>
-							<tr>
-								<td><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Phaser" width="50"></td>
-								<td><img src="https://phaser.io/images/logo.png" alt="Figma" width="50"></td>
-								<td><img src="https://phaser.io/images/logo.png" alt="Git" width="50"></td>
-								<td><img src="https://phaser.io/images/logo.png" alt="Slack" width="50"></td>
-							</tr>
-						</table>
-					</details>
-				</div>
-			</td>
-		</tr>
-	</table>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Cidade Unilever</h3>
+        <div align="center">  
+          <a href='#'>
+            <img src="images/cidadeUnilever.jpg" alt="Cidade Unilever" height="150" />
+          </a>
+          <p>
+            <a href="https://github.com/your-repo-url" target="_blank">
+              <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+            </a>
+          </p>
+          <p>
+            Projeto realizado em Janeiro de 2022. <br> Jogo interativo desenvolvido para melhorar o onboarding dos funcionários da área de TI da Unilever.
+          </p>
+          <details>
+            <summary><b>Tecnologias Utilizadas</b></summary>
+            <br>
+            <table>
+              <tr>
+                <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
+                <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></td>
+                <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></td>
+                <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></td>
+                <td><img src="https://img.shields.io/badge/Phaser-5A0FC8?style=for-the-badge&logo=phaser&logoColor=white" alt="Phaser"></td>
+              </tr>
+            </table>
+          </details>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Zuyd Connections</h3>
+        <div align="center">  
+          <a href='#'>
+            <img src="images/zuyd.jpg" alt="Zuyd Connections" height="150" />
+          </a>
+          <p>
+            <a href="https://github.com/your-repo-url" target="_blank">
+              <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+            </a>
+          </p>
+          <p>
+            Projeto realizado em Março de 2022. <br> Plataforma web desenvolvida para apoiar estudantes internacionais em uma simulação de negócios.
+          </p>
+          <details>
+            <summary><b>Tecnologias Utilizadas</b></summary>
+            <br>
+            <table>
+              <tr>
+                <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
+                <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></td>
+                <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></td>
+                <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></td>
+                <td><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></td>
+              </tr>
+            </table>
+          </details>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
