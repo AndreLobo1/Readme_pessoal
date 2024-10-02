@@ -126,7 +126,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
 				<h3 align="center">BTG Pactual</h3>
 				<div align="center">  
 					<a href='#'>
-						<img src="images/btg_pactual.png" alt="BTG Pactual" height="150" />
+						<img src="images/btg.png" alt="BTG Pactual" height="150" />
 					</a>
 					<p><strong>UX Banking, Gamificação</strong></p>
           <p>
