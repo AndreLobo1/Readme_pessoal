@@ -58,7 +58,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
         <h3 align="center">Cidade Unilever</h3>
         <div align="center">  
           <a href='#'>
-            <img src="images/cidadeUnilever.jpg" alt="Cidade Unilever" height="150" />
+            <img src="images/cidadeUnilever.jpg" alt="Cidade Unilever" height="150" style="margin-bottom: 15px;" />
           </a>
           <p>
             <a href="https://github.com/your-repo-url" target="_blank">
@@ -73,12 +73,12 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
           </p>
           <details style="overflow: hidden;">
             <summary><b>Tecnologias Utilizadas</b></summary>
-            <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-top: 10px;">
-              <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-              <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-              <img src="https://img.shields.io/badge/Phaser-5A0FC8?style=for-the-badge&logo=phaser&logoColor=white" alt="Phaser">
+            <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-top: 10px; margin-bottom: 20px;">
+              <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin: 5px;">
+              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin: 5px;">
+              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 5px;">
+              <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" style="margin: 5px;">
+              <img src="https://img.shields.io/badge/Phaser-5A0FC8?style=for-the-badge&logo=phaser&logoColor=white" alt="Phaser" style="margin: 5px;">
             </div>
           </details>
         </div>
@@ -87,7 +87,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
         <h3 align="center">Zuyd Connections</h3>
         <div align="center">  
           <a href='#'>
-            <img src="images/zuyd.jpg" alt="Zuyd Connections" height="150" />
+            <img src="images/zuyd.jpg" alt="Zuyd Connections" height="150" style="margin-bottom: 15px;" />
           </a>
           <p>
             <a href="https://github.com/your-repo-url" target="_blank">
@@ -102,12 +102,12 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
           </p>
           <details style="overflow: hidden;">
             <summary><b>Tecnologias Utilizadas</b></summary>
-            <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-top: 10px;">
-              <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-              <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-              <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+            <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-top: 10px; margin-bottom: 20px;">
+              <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin: 5px;">
+              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin: 5px;">
+              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 5px;">
+              <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" style="margin: 5px;">
+              <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" style="margin: 5px;">
             </div>
           </details>
         </div>
@@ -115,6 +115,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
     </tr>
   </table>
 </div>
+
 
 ## 🏢 Experiência Profissional <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="32px">
 <div align="center">
