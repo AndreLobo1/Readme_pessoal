@@ -1,3 +1,4 @@
+[![](https://bentos.jkominovic.dev/api/v1/generic-card?icon=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox&size=square)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox&size=square)
 
 <div align="center">
   Language:
