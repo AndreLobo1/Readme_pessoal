@@ -50,17 +50,18 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
 <br><br>
 
 
-## ⚙️ Projetos <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px">
+<h4 align="left">⚙️ Projects</h4>
 <div align="center">
-  <table style="width: 100%;">
+  <table>
     <tr>
-      <td style="width: 50%; vertical-align: top;">
+      <td width="50%">
         <h3 align="center">Cidade Unilever</h3>
         <div align="center">  
-          <a href='#'>
-            <img src="images/cidadeUnilever.jpg" alt="Cidade Unilever" height="150" style="max-width: 100%; height: auto;" />
+          <a href="#">
+            <img src="images/cidadeUnilever.jpg" alt="Cidade Unilever" height="100%" />
           </a>
-          <p style="margin-top: 15px;">
+          <br><br>
+          <p>
             <a href="https://github.com/your-repo-url" target="_blank">
               <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
@@ -68,28 +69,20 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
             </a>
           </p>
+          <p><strong>HTML, CSS, JavaScript, Node.js, Phaser</strong></p>
           <p>
             Projeto realizado em Janeiro de 2022. <br> Jogo interativo desenvolvido para melhorar o onboarding dos funcionários da área de TI da Unilever.
           </p>
-          <details>
-            <summary><b>Tecnologias Utilizadas</b></summary>
-            <p style="margin-top: 15px;">
-              <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-              <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-              <img src="https://img.shields.io/badge/Phaser-5A0FC8?style=for-the-badge&logo=phaser&logoColor=white" alt="Phaser">
-            </p>
-          </details>
         </div>
       </td>
-      <td style="width: 50%; vertical-align: top;">
+      <td width="50%">
         <h3 align="center">Zuyd Connections</h3>
         <div align="center">  
-          <a href='#'>
-            <img src="images/zuyd.jpg" alt="Zuyd Connections" height="150" style="max-width: 100%; height: auto;" />
+          <a href="#">
+            <img src="images/zuyd.jpg" alt="Zuyd Connections" height="100%" />
           </a>
-          <p style="margin-top: 15px;">
+          <br><br>
+          <p>
             <a href="https://github.com/your-repo-url" target="_blank">
               <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
@@ -97,84 +90,76 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
             </a>
           </p>
+          <p><strong>HTML, CSS, JavaScript, Node.js, Figma</strong></p>
           <p>
-            Projeto realizado em Março de 2022. <br> Plataforma web desenvolvida para apoiar estudantes internacionais em uma simulação de negócios.
+            Projeto realizado em Março de 2022.<br> Plataforma web desenvolvida para apoiar estudantes internacionais em uma simulação de negócios.
           </p>
-          <details>
-            <summary><b>Tecnologias Utilizadas</b></summary>
-            <p style="margin-top: 15px;">
-              <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-              <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-              <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-            </p>
-          </details>
         </div>
       </td>
     </tr>
-  </table>
-</div>
-
-## 📊 Projeto Atual e Aprendizados <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" height="32px">
-<div align="center">
-  <table style="width: 100%;">
     <tr>
-      <td style="width: 50%; vertical-align: top;">
+      <td width="50%">
         <h3 align="center">Modelo Preditivo de Receita</h3>
         <div align="center">  
-          <a href='#'>
-            <img src="images/redeGazeta.png" alt="Rede Gazeta" height="150" style="max-width: 100%; height: auto;" />
+          <a href="#">
+            <img src="images/redeGazeta.png" alt="Rede Gazeta" height="100%" />
           </a>
+          <br><br>
           <p>
-            Projeto em andamento iniciado em Junho de 2023.<br>
-            Estou desenvolvendo um modelo preditivo para a previsão de receitas publicitárias em parceria com a Rede Gazeta do Espírito Santo.
+            <a href="https://github.com/your-repo-url" target="_blank">
+              <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
           </p>
-          <details>
-            <summary><b>Tecnologias Utilizadas</b></summary>
-            <p style="margin-top: 15px;">
-              <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-              <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-              <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-              <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
-              <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-              <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-            </p>
-          </details>
+          <p><strong>Python, Pandas, NumPy, Scikit-learn, TensorFlow, R</strong></p>
+          <p>
+            Projeto em andamento iniciado em Junho de 2023. <br> Estou desenvolvendo um modelo preditivo para a previsão de receitas publicitárias em parceria com a Rede Gazeta do Espírito Santo.
+          </p>
         </div>
       </td>
     </tr>
   </table>
 </div>
 
-## 🏢 Experiência Profissional <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="32px">
+<h4 align="left">🏢 Experiência Profissional</h4>
 <div align="center">
-  <table style="width: 100%;">
+  <table>
     <tr>
-      <td style="width: 50%; vertical-align: top;">
+      <td width="50%">
         <h3 align="center">BTG Pactual</h3>
         <div align="center">  
-          <a href='#'>
-            <img src="images/btg.png" alt="BTG Pactual" height="150" style="max-width: 100%; height: auto;" />
+          <a href="#">
+            <img src="images/btg.png" alt="BTG Pactual" height="100%" />
           </a>
+          <br><br>
           <p><strong>UX Banking, Gamificação</strong></p>
           <p>
             Estágio de férias realizado em Julho de 2022. <br> Atuei na melhoria da experiência de solicitação de crédito, aplicando heurísticas de Nielsen.
           </p>
-          <details>
-            <summary><b>Tecnologias Utilizadas</b></summary>
-            <p style="margin-top: 15px;">
-              <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-              <img src="https://img.shields.io/badge/Scrum-FF6F00?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum">
-              <img src="https://img.shields.io/badge/UX-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="UX">
-              <img src="https://img.shields.io/badge/UI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="UI">
-            </p>
-          </details>
+          <p><strong>Figma, Scrum, UX, UI</strong></p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Modelo Preditivo de Receita (Cópia)</h3>
+        <div align="center">  
+          <a href="#">
+            <img src="images/redeGazeta.png" alt="Rede Gazeta" height="100%" />
+          </a>
+          <br><br>
+          <p>
+            <a href="https://github.com/your-repo-url" target="_blank">
+              <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+          </p>
+          <p><strong>Python, Pandas, NumPy, Scikit-learn, TensorFlow, R</strong></p>
+          <p>
+            Projeto em andamento iniciado em Junho de 2023. <br> Estou desenvolvendo um modelo preditivo para a previsão de receitas publicitárias em parceria com a Rede Gazeta do Espírito Santo.
+          </p>
         </div>
       </td>
     </tr>
   </table>
 </div>
+
 
 ## 🎓 Formação Acadêmica <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Book.gif" height="32px">
 <div align="center">
