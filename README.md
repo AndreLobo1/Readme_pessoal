@@ -184,7 +184,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
 				<h3 align="center">Inteli</h3>
 				<div align="center">  
 					<a href='#' target="_blank">
-						<img src="images/inteli.png" alt="Inteli" height="150" />
+						<img src="images/inteli.jpeg" alt="Inteli" height="150" />
 					</a>
 					<p><strong>Engenharia de Software</strong></p>
           <p>Iniciado em Janeiro de 2022. <br> Estudo com foco em desenvolvimento de software, projetos em parceria com empresas e metodologias ágeis.</p>
