@@ -54,7 +54,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
+      <td width="50%" style="vertical-align: top;">
         <h3 align="center">Cidade Unilever</h3>
         <div align="center">  
           <a href='#'>
@@ -83,7 +83,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
           </details>
         </div>
       </td>
-      <td width="50%">
+      <td width="50%" style="vertical-align: top;">
         <h3 align="center">Zuyd Connections</h3>
         <div align="center">  
           <a href='#'>
@@ -118,43 +118,40 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
 
 ## 📊 Projeto Atual e Aprendizados <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" height="32px">
 <div align="center">
-	<table>
-		<tr>
-			<td width="50%">
-				<h3 align="center">Modelo Preditivo de Receita</h3>
-				<div align="center">  
-					<a href='#'>
-						<img src="images/redeGazeta.png" alt="Rede Gazeta" height="150" style="max-width: 100%; height: auto;" />
-					</a>
-					<p>
-						Projeto em andamento iniciado em Junho de 2023.<br>
-						Estou desenvolvendo um modelo preditivo para a previsão de receitas publicitárias em parceria com a Rede Gazeta do Espírito Santo.
-					</p>
-					<details>
-						<summary><b>Através deste projeto estou aprendendo</b></summary>
-						<br>
-						<table>
-							<tr>
-								<td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" alt="Python" width="50"></td>
-								<td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50"></td>
-								<td><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="50"></td>
-								<td><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50"></td>
-								<td><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/TensorFlow_logo.svg" alt="TensorFlow" width="50"></td>
-								<td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="50"></td>
-							</tr>
-						</table>
-					</details>
-				</div>
-			</td>
-		</tr>
-	</table>
+  <table>
+    <tr>
+      <td width="50%" style="vertical-align: top;">
+        <h3 align="center">Modelo Preditivo de Receita</h3>
+        <div align="center">  
+          <a href='#'>
+            <img src="images/redeGazeta.png" alt="Rede Gazeta" height="150" style="max-width: 100%; height: auto;" />
+          </a>
+          <p>
+            Projeto em andamento iniciado em Junho de 2023.<br>
+            Estou desenvolvendo um modelo preditivo para a previsão de receitas publicitárias em parceria com a Rede Gazeta do Espírito Santo.
+          </p>
+          <details>
+            <summary><b>Tecnologias Utilizadas</b></summary>
+            <p style="margin-top: 15px;">
+              <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+              <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+              <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+              <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
+              <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+              <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+            </p>
+          </details>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🏢 Experiência Profissional <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="32px">
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
+      <td width="50%" style="vertical-align: top;">
         <h3 align="center">BTG Pactual</h3>
         <div align="center">  
           <a href='#'>
@@ -178,6 +175,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
     </tr>
   </table>
 </div>
+
 
 ## 🎓 Formação Acadêmica <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Book.gif" height="32px">
 <div align="center">
