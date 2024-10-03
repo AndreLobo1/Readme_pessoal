@@ -17,6 +17,7 @@
   <a title="Chinese" href="./README.zh-CN.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/cn.svg"></kbd></a> 
   &nbsp;
   <a title="Russian" href="./README.ru.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/ru.svg"></kbd></a> 
+</div>
 
 <h1 align="center">
   <img src="https://cardivo.vercel.app/api?name=André%20Lobo&description=Engenheiro%20de%20Software%20em%20formação,%20apaixonado%20por%20tecnologia%20e%20inovação.%20Busco%20desafios%20que%20me%20permitam%20crescer%20e%20contribuir%20para%20projetos%20que%20impactam%20positivamente%20a%20sociedade.&image=https://raw.githubusercontent.com/AndreLobo1/AndreLobo1/main/images/andre_lobo.jpg&backgroundColor=%23ffffff&animation=true" />
