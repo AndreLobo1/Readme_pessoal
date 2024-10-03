@@ -1,3 +1,23 @@
+
+<div align="center">
+  Language:
+  &nbsp;
+  [ <a title="English" href="./README.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/gb.svg"></kbd></a> ]
+  &nbsp;
+  <a title="Italian" href="./README.it.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd></a> 
+  &nbsp;
+  <a title="French" href="./README.fr.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/fr.svg"></kbd></a> 
+  &nbsp;
+  <a title="Spanish" href="./README.es.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/es.svg"></kbd></a> 
+  &nbsp;
+  <a title="German" href="./README.de.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/de.svg"></kbd></a> 
+  &nbsp;
+  <a title="Japanese" href="./README.ja.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/jp.svg"></kbd></a> 
+  &nbsp;
+  <a title="Chinese" href="./README.zh-CN.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/cn.svg"></kbd></a> 
+  &nbsp;
+  <a title="Russian" href="./README.ru.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/ru.svg"></kbd></a> 
+
 <h1 align="center">
   <img src="https://cardivo.vercel.app/api?name=André%20Lobo&description=Engenheiro%20de%20Software%20em%20formação,%20apaixonado%20por%20tecnologia%20e%20inovação.%20Busco%20desafios%20que%20me%20permitam%20crescer%20e%20contribuir%20para%20projetos%20que%20impactam%20positivamente%20a%20sociedade.&image=https://raw.githubusercontent.com/AndreLobo1/AndreLobo1/main/images/andre_lobo.jpg&backgroundColor=%23ffffff&animation=true" />
 </h1>
