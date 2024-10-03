@@ -52,9 +52,9 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
 
 ## ⚙️ Projetos <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px">
 <div align="center">
-  <table>
+  <table style="width: 100%;">
     <tr>
-      <td width="50%" style="vertical-align: top;">
+      <td style="width: 50%; vertical-align: top;">
         <h3 align="center">Cidade Unilever</h3>
         <div align="center">  
           <a href='#'>
@@ -83,7 +83,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
           </details>
         </div>
       </td>
-      <td width="50%" style="vertical-align: top;">
+      <td style="width: 50%; vertical-align: top;">
         <h3 align="center">Zuyd Connections</h3>
         <div align="center">  
           <a href='#'>
@@ -118,9 +118,9 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
 
 ## 📊 Projeto Atual e Aprendizados <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" height="32px">
 <div align="center">
-  <table>
+  <table style="width: 100%;">
     <tr>
-      <td width="50%" style="vertical-align: top;">
+      <td style="width: 50%; vertical-align: top;">
         <h3 align="center">Modelo Preditivo de Receita</h3>
         <div align="center">  
           <a href='#'>
@@ -149,9 +149,9 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
 
 ## 🏢 Experiência Profissional <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="32px">
 <div align="center">
-  <table>
+  <table style="width: 100%;">
     <tr>
-      <td width="50%" style="vertical-align: top;">
+      <td style="width: 50%; vertical-align: top;">
         <h3 align="center">BTG Pactual</h3>
         <div align="center">  
           <a href='#'>
@@ -175,6 +175,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
     </tr>
   </table>
 </div>
+
 
 
 ## 🎓 Formação Acadêmica <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Book.gif" height="32px">
