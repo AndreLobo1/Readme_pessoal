@@ -176,8 +176,6 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
   </table>
 </div>
 
-
-
 ## 🎓 Formação Acadêmica <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Book.gif" height="32px">
 <div align="center">
 	<table>
