@@ -52,6 +52,9 @@
   </tr>
 </table>
 
+> [!NOTE]  
+> O buy me a coffe é uma plataforma onde voce pode doar qualquer quantia diretamente para mim, seja como forma de agradecimente admiracao ou qualquer outro motivo, todo o valor arrecadado no buy me a coffe é utilizado para estudos, seja comprando cursos, exames de certificacao, equipamentos e etc...
+
 # 👋 Hello, World! Sou o André Lobo <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <p align="center">
