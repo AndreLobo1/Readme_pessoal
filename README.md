@@ -7,7 +7,7 @@
   &nbsp;
 </div>
 
-![Satya wikananda's card name](https://cardivo.vercel.app/api?name=Satya%20Wikananda&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/159137322?v=4&backgroundColor=%23ecf0f1&instagram=satyawikananda&linkedin=I%20Gusti%20Ngurah%20Satya%20%20Wikananda&github=satyawikananda&twitter=satya_wikananda&pattern=leaf&colorPattern=%23eaeaea)
+![André Lobo's card](https://cardivo.vercel.app/api?name=André%20Lobo&description=Futuro%20Engenheiro%20de%20Software,%20apaixonado%20por%20tecnologia%20e%20inovação.%20Busco%20desafios%20que%20me%20permitam%20crescer%20e%20contribuir%20para%20projetos%20que%20impactam%20a%20sociedade.&image=https://avatars.githubusercontent.com/u/159137322?v=4&backgroundColor=%23ffffff&pattern=none&instagram=andre_lobo&linkedin=André%20Lobo&github=AndreLobo1)
 
 <table align="center">
   <tr>
