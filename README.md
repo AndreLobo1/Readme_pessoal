@@ -25,11 +25,6 @@
       </a>
     </td>
     <td align="center" style="padding-right: 10px;">
-      <a href="https://buymeacoffee.com/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fbuymeacoffee.com%2F&size=square" alt="Buy Me a Coffee">
-      </a>
-    </td>
-    <td align="center" style="padding-right: 10px;">
       <a href="https://github.com/AndreLobo1" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FAndreLobo1&subtitle=%2FAndreLobo1&size=square" alt="André Lobo - GitHub">
       </a>
