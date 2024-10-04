@@ -1,15 +1,10 @@
 <div align="center">
   Language:
   &nbsp;
-  <a title="English" href="./README.en.md">
-    <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/us.svg"></kbd>
-  </a>
+  [ <a title="Português Brasileiro" href="./README.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/br.svg"></kbd></a> ]
   &nbsp;
-  <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/br.svg"></kbd>
+  <a title="English" href="./README.it.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/us.svg"></kbd></a> 
   &nbsp;
-  <a title="Portuguese" href="./README.md">
-    <kbd>🇧🇷</kbd>
-  </a>
 </div>
 
 <h1 align="center">
