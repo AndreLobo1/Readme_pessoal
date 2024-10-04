@@ -7,7 +7,7 @@
   &nbsp;
 </div>
 
-![André Lobo's card](https://cardivo.vercel.app/api?name=André%20Lobo&description=Futuro%20Engenheiro%20de%20Software,%20apaixonado%20por%20tecnologia%20e%20inovação.%20Busco%20desafios%20que%20me%20permitam%20crescer%20e%20contribuir%20para%20projetos%20que%20impactam%20a%20sociedade.&image=https://avatars.githubusercontent.com/u/80341265?v=4&backgroundColor=%23ffffff&pattern=none&instagram=andre_lobo&linkedin=André%20Lobo&github=AndreLobo1)
+![André Lobo's card](https://cardivo.vercel.app/api?name=André%20Lobo&description=Futuro%20Engenheiro%20de%20Software,%20apaixonado%20por%20tecnologia%20e%20inovação.%20Busco%20desafios%20que%20me%20permitam%20crescer%20e%20contribuir%20para%20projetos%20que%20impactam%20a%20sociedade.&image=https://avatars.githubusercontent.com/AndreLobo1&backgroundColor=%23ffffff&pattern=none&instagram=andre_lobo&linkedin=André%20Lobo&github=AndreLobo1)
 
 <table align="center">
   <tr>
