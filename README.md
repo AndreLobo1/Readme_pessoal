@@ -216,6 +216,34 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
   </table>
 </div>
 
+## 🎓 Atividades Extracurriculares <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Book.gif" height="32px">
+<div align="center">
+  <table style="width: 100%;">
+    <tr>
+      <td width="50%">
+        <h3 align="center">Inteli</h3>
+        <div align="center">  
+          <a href='#' target="_blank">
+            <img src="images/inteli.jpeg" alt="Inteli" height="150" style="max-width: 100%; height: auto;" />
+          </a>
+          <p><strong>Engenharia de Software</strong></p>
+          <p>Iniciado em Janeiro de 2022. <br> Estudo com foco em desenvolvimento de software, projetos em parceria com empresas e metodologias ágeis.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Inteli (Cópia)</h3>
+        <div align="center">  
+          <a href='#' target="_blank">
+            <img src="images/inteli.jpeg" alt="Inteli" height="150" style="max-width: 100%; height: auto;" />
+          </a>
+          <p><strong>Engenharia de Software</strong></p>
+          <p>Iniciado em Janeiro de 2022. <br> Estudo com foco em desenvolvimento de software, projetos em parceria com empresas e metodologias ágeis.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ## 🛠️ Ferramentas e Tecnologias <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/tools.gif" height="30px">
 
