@@ -11,7 +11,6 @@
   <img src="https://cardivo.vercel.app/api?name=André%20Lobo&description=Futuro%20Engenheiro%20de%20Software,%20apaixonado%20por%20tecnologia%20e%20inovação.%20Busco%20desafios%20que%20me%20permitam%20crescer%20e%20contribuir%20para%20projetos%20que%20impactam%20a%20sociedade.&image=https://avatars.githubusercontent.com/u/159137322?v=4&backgroundColor=%23B0B0B0&pattern=topography&colorPattern=%23eaeaea&animation=true" style="height: 500px;" />
 </h1>
 
-
 <table align="center">
   <tr>
     <td align="center" style="padding-right: 10px;">
@@ -36,9 +35,6 @@
     </td>
   </tr>
 </table>
-
-> [!NOTE]  
-> O buy me a coffe é uma plataforma onde voce pode doar qualquer quantia diretamente para mim, seja como forma de agradecimente admiracao ou qualquer outro motivo, todo o valor arrecadado no buy me a coffe é utilizado para estudos, seja comprando cursos, exames de certificacao, equipamentos e etc...
 
 # 👋 Hello, World! Sou o André Lobo <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
