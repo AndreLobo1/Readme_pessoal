@@ -360,6 +360,6 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=3000&pause=1000&color=195AB4&center=true&vCenter=true&width=435&lines=Obrigado+pela+visita!+Volte+sempre!" alt="Typing SVG" />
 </p>
 
-<p align="center">Ajude a impulsionar esse projeto, clique nas ⭐ dos repositórios para apoiar!</p>
+<p align ="center"> Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="25px"></p>
 
 <p align="center">⬇️Aqui estão alguns dos meus projetos mais recentes, explore e contribua se possível⬇!⬇️</p>
