@@ -67,7 +67,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
         <h3 align="center">Cidade Unilever</h3>
         <div align="center">  
           <a href="#">
-            <img src="images/cidadeUnilever.jpg" alt="Cidade Unilever" height="100%" />
+            <img src="images/cidadeUnilever.jpg" alt="Cidade Unilever" style="width: 250px; height: 150px;" />
           </a>
           <br><br>
           <p>
@@ -88,7 +88,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
         <h3 align="center">Zuyd Connections</h3>
         <div align="center">  
           <a href="#">
-            <img src="images/zuyd.jpg" alt="Zuyd Connections" height="100%" />
+            <img src="images/zuyd.jpg" alt="Zuyd Connections" style="width: 250px; height: 150px;" />
           </a>
           <br><br>
           <p>
@@ -111,7 +111,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
         <h3 align="center">Modelo Preditivo de Receita</h3>
         <div align="center">  
           <a href="#">
-            <img src="images/redeGazeta.png" alt="Rede Gazeta" height="100%" />
+            <img src="images/redeGazeta.png" alt="Rede Gazeta" style="width: 250px; height: 150px;" />
           </a>
           <br><br>
           <p>
@@ -137,7 +137,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
         <h3 align="center">BTG Pactual</h3>
         <div align="center">  
           <a href="#">
-            <img src="images/btg.png" alt="BTG Pactual" height="100%" />
+            <img src="images/btg.png" alt="BTG Pactual" style="width: 250px; height: 150px;" />
           </a>
           <br><br>
           <p><strong>UX Banking, Gamificação</strong></p>
@@ -151,7 +151,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
         <h3 align="center">Modelo Preditivo de Receita (Cópia)</h3>
         <div align="center">  
           <a href="#">
-            <img src="images/redeGazeta.png" alt="Rede Gazeta" height="100%" />
+            <img src="images/redeGazeta.png" alt="Rede Gazeta" style="width: 250px; height: 150px;" />
           </a>
           <br><br>
           <p>
@@ -177,7 +177,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
         <h3 align="center">Inteli</h3>
         <div align="center">  
           <a href='#' target="_blank">
-            <img src="images/inteli.jpeg" alt="Inteli" height="150" style="max-width: 100%; height: auto;" />
+            <img src="images/inteli.jpeg" alt="Inteli" style="width: 250px; height: 150px;" />
           </a>
           <p><strong>Engenharia de Software</strong></p>
           <p>Iniciado em Janeiro de 2022. <br> Estudo com foco em desenvolvimento de software, projetos em parceria com empresas e metodologias ágeis.</p>
@@ -187,35 +187,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
         <h3 align="center">Inteli (Cópia)</h3>
         <div align="center">  
           <a href='#' target="_blank">
-            <img src="images/inteli.jpeg" alt="Inteli" height="150" style="max-width: 100%; height: auto;" />
-          </a>
-          <p><strong>Engenharia de Software</strong></p>
-          <p>Iniciado em Janeiro de 2022. <br> Estudo com foco em desenvolvimento de software, projetos em parceria com empresas e metodologias ágeis.</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🎓 Atividades Extracurriculares <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Book.gif" height="32px">
-<div align="center">
-  <table style="width: 100%;">
-    <tr>
-      <td width="50%">
-        <h3 align="center">Inteli</h3>
-        <div align="center">  
-          <a href='#' target="_blank">
-            <img src="images/inteli.jpeg" alt="Inteli" height="150" style="max-width: 100%; height: auto;" />
-          </a>
-          <p><strong>Engenharia de Software</strong></p>
-          <p>Iniciado em Janeiro de 2022. <br> Estudo com foco em desenvolvimento de software, projetos em parceria com empresas e metodologias ágeis.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Inteli (Cópia)</h3>
-        <div align="center">  
-          <a href='#' target="_blank">
-            <img src="images/inteli.jpeg" alt="Inteli" height="150" style="max-width: 100%; height: auto;" />
+            <img src="images/inteli.jpeg" alt="Inteli" style="width: 250px; height: 150px;" />
           </a>
           <p><strong>Engenharia de Software</strong></p>
           <p>Iniciado em Janeiro de 2022. <br> Estudo com foco em desenvolvimento de software, projetos em parceria com empresas e metodologias ágeis.</p>
