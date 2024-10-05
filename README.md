@@ -238,113 +238,51 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
 </details>
 
 
-## 🛠️ Ferramentas e Tecnologias <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/tools.gif" height="30px">
+<details> 
+  <summary><h2>🛠️ Minhas Ferramentas Favoritas</h2></summary>
 
-<details open>
-  <summary><h2>🔧 Tecnologias</h2></summary>
+  <h3>👨‍💻 Linguagens de Programação e Marcação</h3>
+  <p>
+      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
+      <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+  </p>
 
-  <br>
+  <h3>🧰 Frameworks e Bibliotecas</h3>
+  <p>
+      <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+      <a href="#"><img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?logo=npm&logoColor=white"></a>
+      <a href="#"><img alt="Phaser" src="https://img.shields.io/badge/Phaser-5A0FC8.svg?logo=phaser&logoColor=white"></a>
+      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+      <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+  </p>
 
-  ### Linguagens de Marcação
-  <table>
-    <tr>
-      <td><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></td>
-      <td><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"></td>
-      <td><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></td>
-    </tr>
-  </table>
+  <h3>🗄️ Bancos de Dados e Hospedagem na Nuvem</h3>
+  <p>
+      <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+      <a href="#"><img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-1B1B1B.svg?logo=dbeaver&logoColor=white"></a>
+      <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+      <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+  </p>
 
-  <br>
-
-  ### Linguagens de Programação
-  <table>
-    <tr>
-      <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></td>
-      <td><img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"></td>
-    </tr>
-  </table>
-
-  <br>
-
-  ### Frameworks e Bibliotecas
-  <table>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js"></td>
-      <td><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"></td>
-      <td><img src="https://img.shields.io/badge/Sails.js-000000?style=for-the-badge&logo=sails&logoColor=white" alt="Sails.js"></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha"></td>
-      <td><img src="https://img.shields.io/badge/Sinon.js-003E54?style=for-the-badge&logo=sinon&logoColor=white" alt="Sinon.js"></td>
-      <td><img src="https://img.shields.io/badge/Phaser-5A0FC8?style=for-the-badge&logo=phaser&logoColor=white" alt="Phaser"></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Libra_Sprite-00A3E0?style=for-the-badge" alt="Libra Sprite"></td>
-      <td><img src="https://img.shields.io/badge/Tiled-58A6FF?style=for-the-badge" alt="Tiled"></td>
-    </tr>
-  </table>
-
-  <br>
-
-  ### Ferramentas de Versionamento
-  <table>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></td>
-      <td><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></td>
-      <td><img src="https://img.shields.io/badge/Gitflow-563D7C?style=for-the-badge" alt="Gitflow"></td>
-    </tr>
-  </table>
-
-  <br>
-
-  ### Bancos de Dados
-  <table>
-    <tr>
-      <td><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></td>
-      <td><img src="https://img.shields.io/badge/DBeaver-1B1B1B?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver"></td>
-    </tr>
-  </table>
-
-  <br>
-
-  ### Ferramentas de Design
-  <table>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"></td>
-      <td><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></td>
-    </tr>
-  </table>
-
-  <br>
-
-  ### Metodologias Ágeis e Organização
-  <table>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Scrum-FF6F00?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum"></td>
-      <td><img src="https://img.shields.io/badge/Kanban-0097A7?style=for-the-badge&logo=kanban&logoColor=white" alt="Kanban"></td>
-      <td><img src="https://img.shields.io/badge/Agile-FF4500?style=for-the-badge" alt="Agile"></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/GitHub_Copilot-1DBF73?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"></td>
-      <td><img src="https://img.shields.io/badge/ChatGPT-34A853?style=for-the-badge&logo=chatgpt&logoColor=white" alt="ChatGPT"></td>
-      <td><img src="https://img.shields.io/badge/Padrão_AAA_(Arrange--Act--Assert)-7F8C8D?style=for-the-badge&logo=testing&logoColor=white" alt="Padrão AAA"></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/MVC_(Model--View--Controller)-E34F26?style=for-the-badge&logo=architecture&logoColor=white" alt="MVC"></td>
-    </tr>
-  </table>
-
-  <br>
-
-  ### Ferramentas de Colaboração
-  <table>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"></td>
-      <td><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"></td>
-    </tr>
-  </table>
+  <h3>💻 Softwares e Ferramentas</h3>
+  <p>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+      <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"></a>
+      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+      <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC.svg?logo=canva&logoColor=white"></a>
+      <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
+      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+  </p>
 
 </details>
+
 
 
 <p align="center">
