@@ -67,7 +67,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
         <h3 align="center">Cidade Unilever</h3>
         <div align="center">  
           <a href="#">
-            <img src="images/cidadeUnilever.jpg" alt="Cidade Unilever" style="width: 250px; height: 150px;" />
+            <img src="images/cidadeUnilever.jpg" alt="Cidade Unilever" style="width: 250px; height: 150px; object-fit: cover;" />
           </a>
           <br><br>
           <p>
@@ -88,7 +88,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
         <h3 align="center">Zuyd Connections</h3>
         <div align="center">  
           <a href="#">
-            <img src="images/zuyd.jpg" alt="Zuyd Connections" style="width: 250px; height: 150px;" />
+            <img src="images/zuyd.jpg" alt="Zuyd Connections" style="width: 250px; height: 150px; object-fit: cover;" />
           </a>
           <br><br>
           <p>
@@ -111,7 +111,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
         <h3 align="center">Modelo Preditivo de Receita</h3>
         <div align="center">  
           <a href="#">
-            <img src="images/redeGazeta.png" alt="Rede Gazeta" style="width: 250px; height: 150px;" />
+            <img src="images/redeGazeta.png" alt="Rede Gazeta" style="width: 250px; height: 150px; object-fit: cover;" />
           </a>
           <br><br>
           <p>
@@ -137,7 +137,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
         <h3 align="center">BTG Pactual</h3>
         <div align="center">  
           <a href="#">
-            <img src="images/btg.png" alt="BTG Pactual" style="width: 250px; height: 150px;" />
+            <img src="images/btg.png" alt="BTG Pactual" style="width: 250px; height: 150px; object-fit: cover;" />
           </a>
           <br><br>
           <p><strong>UX Banking, Gamificação</strong></p>
@@ -151,7 +151,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
         <h3 align="center">Modelo Preditivo de Receita (Cópia)</h3>
         <div align="center">  
           <a href="#">
-            <img src="images/redeGazeta.png" alt="Rede Gazeta" style="width: 250px; height: 150px;" />
+            <img src="images/redeGazeta.png" alt="Rede Gazeta" style="width: 250px; height: 150px; object-fit: cover;" />
           </a>
           <br><br>
           <p>
@@ -177,7 +177,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
         <h3 align="center">Inteli</h3>
         <div align="center">  
           <a href='#' target="_blank">
-            <img src="images/inteli.jpeg" alt="Inteli" style="width: 250px; height: 150px;" />
+            <img src="images/inteli.jpeg" alt="Inteli" style="width: 250px; height: 150px; object-fit: cover;" />
           </a>
           <p><strong>Engenharia de Software</strong></p>
           <p>Iniciado em Janeiro de 2022. <br> Estudo com foco em desenvolvimento de software, projetos em parceria com empresas e metodologias ágeis.</p>
@@ -187,7 +187,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
         <h3 align="center">Inteli (Cópia)</h3>
         <div align="center">  
           <a href='#' target="_blank">
-            <img src="images/inteli.jpeg" alt="Inteli" style="width: 250px; height: 150px;" />
+            <img src="images/inteli.jpeg" alt="Inteli" style="width: 250px; height: 150px; object-fit: cover;" />
           </a>
           <p><strong>Engenharia de Software</strong></p>
           <p>Iniciado em Janeiro de 2022. <br> Estudo com foco em desenvolvimento de software, projetos em parceria com empresas e metodologias ágeis.</p>
@@ -196,6 +196,7 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
     </tr>
   </table>
 </div>
+
 
 
 ## 🛠️ Ferramentas e Tecnologias <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/tools.gif" height="30px">
