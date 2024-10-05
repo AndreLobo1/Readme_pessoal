@@ -240,9 +240,12 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
 
 ## 🛠️ Ferramentas e Tecnologias <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/tools.gif" height="30px">
 
-<details>
-  <summary><b>Linguagens de Marcação</b></summary>
+<details open>
+  <summary><h2>🔧 Tecnologias</h2></summary>
+
   <br>
+
+  ### Linguagens de Marcação
   <table>
     <tr>
       <td><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></td>
@@ -250,22 +253,20 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
       <td><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></td>
     </tr>
   </table>
-</details>
 
-<details>
-  <summary><b>Linguagens de Programação</b></summary>
   <br>
+
+  ### Linguagens de Programação
   <table>
     <tr>
       <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></td>
       <td><img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"></td>
     </tr>
   </table>
-</details>
 
-<details>
-  <summary><b>Frameworks e Bibliotecas</b></summary>
   <br>
+
+  ### Frameworks e Bibliotecas
   <table>
     <tr>
       <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js"></td>
@@ -282,11 +283,10 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
       <td><img src="https://img.shields.io/badge/Tiled-58A6FF?style=for-the-badge" alt="Tiled"></td>
     </tr>
   </table>
-</details>
 
-<details>
-  <summary><b>Ferramentas de Versionamento</b></summary>
   <br>
+
+  ### Ferramentas de Versionamento
   <table>
     <tr>
       <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></td>
@@ -294,33 +294,30 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
       <td><img src="https://img.shields.io/badge/Gitflow-563D7C?style=for-the-badge" alt="Gitflow"></td>
     </tr>
   </table>
-</details>
 
-<details>
-  <summary><b>Bancos de Dados</b></summary>
   <br>
+
+  ### Bancos de Dados
   <table>
     <tr>
       <td><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></td>
       <td><img src="https://img.shields.io/badge/DBeaver-1B1B1B?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver"></td>
     </tr>
   </table>
-</details>
 
-<details>
-  <summary><b>Ferramentas de Design</b></summary>
   <br>
+
+  ### Ferramentas de Design
   <table>
     <tr>
       <td><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"></td>
       <td><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></td>
     </tr>
   </table>
-</details>
 
-<details>
-  <summary><b>Metodologias Ágeis e Organização</b></summary>
   <br>
+
+  ### Metodologias Ágeis e Organização
   <table>
     <tr>
       <td><img src="https://img.shields.io/badge/Scrum-FF6F00?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum"></td>
@@ -336,18 +333,19 @@ Escolha um horário que seja conveniente para você e vamos conversar sobre qual
       <td><img src="https://img.shields.io/badge/MVC_(Model--View--Controller)-E34F26?style=for-the-badge&logo=architecture&logoColor=white" alt="MVC"></td>
     </tr>
   </table>
-</details>
 
-<details>
-  <summary><b>Ferramentas de Colaboração</b></summary>
   <br>
+
+  ### Ferramentas de Colaboração
   <table>
     <tr>
       <td><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"></td>
       <td><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"></td>
     </tr>
   </table>
+
 </details>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=3000&pause=1000&color=195AB4&center=true&vCenter=true&width=435&lines=Obrigado+pela+visita!+Volte+sempre!" alt="Typing SVG" />
