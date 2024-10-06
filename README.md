@@ -219,23 +219,23 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
     <table style="width: 100%;">
       <tr>
         <td width="50%">
-          <h3 align="center">Inteli</h3>
+          <h3 align="center">Aluno mediador</h3>
           <div align="center">  
             <a href='#' target="_blank">
               <img src="images/inteli.jpeg" alt="Inteli" width="250" height="160" />
             </a>
-            <p><strong>Engenharia de Software</strong></p>
-            <p>Iniciado em Janeiro de 2022. <br> Estudo com foco em desenvolvimento de software, projetos em parceria com empresas e metodologias ágeis.</p>
+            <p>Sou mediador de alunos no Inteli, onde atuo auxiliando na mediação de conflitos entre colegas. Nesse papel, desenvolvo minhas soft skills, enquanto contribuo para um ambiente acadêmico mais colaborativo e harmonioso.
+</p>
           </div>
         </td>
         <td width="50%">
-          <h3 align="center">Inteli (Cópia)</h3>
+          <h3 align="center">Comunidade Wave</h3>
           <div align="center">  
             <a href='#' target="_blank">
               <img src="images/inteli.jpeg" alt="Inteli" width="250" height="160" />
             </a>
-            <p><strong>Engenharia de Software</strong></p>
-            <p>Iniciado em Janeiro de 2022. <br> Estudo com foco em desenvolvimento de software, projetos em parceria com empresas e metodologias ágeis.</p>
+            <p>Atuo como mentor na comunidade Wave, uma iniciativa dedicada a apoiar candidatos durante o processo seletivo do Inteli. Meu papel como mentor é oferecer suporte aos mentorados, esclarecendo suas dúvidas, ajudando a lidar com desafios e proporcionando orientação ao longo de toda a jornada de preparação.
+</p>
           </div>
         </td>
       </tr>
