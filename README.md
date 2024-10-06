@@ -46,13 +46,7 @@ Olá! Eu sou André Lobo, estudante de Engenharia de Software no Inteli – Inst
 
 Sou voluntário há mais de dois anos no Family Search, uma organização que me permitiu transformar meu hobby de genealogia em uma experiência de voluntariado. Ajudar outras pessoas a descobrirem suas origens tem sido uma jornada enriquecedora e gratificante.
 
-Também atuo como mediador de conflitos no Inteli, onde voluntariamente ajudo a resolver desacordos entre colegas. Essa função me permite exercitar minhas habilidades interpessoais e de comunicação, essenciais tanto no ambiente acadêmico quanto no corporativo.
-
-Faço parte da Inteli Junior, onde atuo na área de projetos, desenvolvendo soluções para os clientes da empresa, e também na área de pessoas, onde auxilio no bem-estar dos membros e na mediação de conflitos. Esse papel reforça minhas habilidades de liderança, colaboração e resolução de problemas, essenciais em um ambiente ágil.
-
-Além disso, sou assessor da diretoria de pessoas no coletivo LGBTQIA+ do Inteli, o Turing, onde também atuo na mediação de conflitos, garantindo que os membros tenham um ambiente saudável e inclusivo.
-
-Tenho um grande interesse por liderança, gestão de equipes e desenvolvimento de soft skills, e acredito que habilidades técnicas são maximizadas quando combinadas com uma comunicação assertiva e empática. Sou apaixonado por trabalhar em equipe e sempre procuro entender as dores e necessidades do usuário para desenvolver soluções que realmente façam a diferença.
+Atuo como mediador de conflitos no Inteli, auxiliando voluntariamente na resolução de desacordos entre colegas, o que me permite exercitar habilidades interpessoais e de comunicação essenciais tanto no ambiente acadêmico quanto no corporativo. Na Inteli Junior, desenvolvo projetos para clientes e também contribuo na área de pessoas, onde cuido do bem-estar dos membros e participo da mediação de conflitos, reforçando minhas habilidades de liderança, colaboração e resolução de problemas. Além disso, sou assessor da diretoria de pessoas do coletivo LGBTQIA+ Turing, onde garanto um ambiente saudável e inclusivo para todos os membros.
 
 Busco combinar minhas habilidades técnicas e interpessoais para desenvolver soluções inovadoras que causem impacto positivo, especialmente para públicos sub-representados na sociedade.
 
