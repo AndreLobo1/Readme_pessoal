@@ -86,7 +86,7 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
             </p>
             <p><strong>HTML, CSS, JavaScript, Node.js, Phaser</strong></p>
             <p>
-              Projeto realizado em Janeiro de 2022. <br> Jogo interativo desenvolvido para melhorar o onboarding dos funcionários da área de TI da Unilever.
+              Período de desenvolvimento: Fevereiro de 2024 a Abril de 2024 <br>  Desenvolvido em parceria com a Unilever Brasil, este projeto foi criado com o objetivo de aprimorar o processo de onboarding dos novos funcionários da área de TI. O jogo interativo proporciona uma experiência imersiva e envolvente, facilitando a integração e o aprendizado de maneira dinâmica e eficiente.
             </p>
           </div>
         </td>
