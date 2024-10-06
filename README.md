@@ -62,7 +62,6 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
 
 <br><br>
 
-
 <details open> 
   <summary><h2>⚙️ Projects</h2></summary>
 
@@ -72,15 +71,12 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
         <td width="50%">
           <h3 align="center">Cidade Unilever</h3>
           <div align="center">  
-            <a href="#">
+            <a href="https://inteli-college.github.io/2024-T0012-IN01-G03/src/">
               <img src="images/cidadeUnilever.jpg" alt="Cidade Unilever" width="250" height="160" />
             </a>
             <br><br>
             <p>
-              <a href="https://github.com/your-repo-url" target="_blank">
-                <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-              </a>  
-              <a href="#" target="_blank">
+              <a href="https://inteli-college.github.io/2024-T0012-IN01-G03/src/" target="_blank">
                 <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
               </a>
             </p>
@@ -94,16 +90,13 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
         <td width="50%">
           <h3 align="center">Zuyd Connections</h3>
           <div align="center">  
-            <a href="#">
+            <a href="https://www.youtube.com/watch?v=vU1_TVVlZeg">
               <img src="images/zuyd.jpg" alt="Zuyd Connections" width="250" height="160" />
             </a>
             <br><br>
             <p>
-              <a href="https://github.com/your-repo-url" target="_blank">
-                <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-              </a>  
-              <a href="#" target="_blank">
-                <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+              <a href="https://www.youtube.com/watch?v=vU1_TVVlZeg" target="_blank">
+                <img src="https://img.shields.io/badge/Demo-lightgrey?style=for-the-badge&color=0892d0"/>
               </a>
             </p>
             <p><strong>HTML, CSS, JavaScript, Node.js, Figma, Sails.js</strong></p>
@@ -122,12 +115,7 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
               <img src="images/redeGazeta.png" alt="Rede Gazeta" width="250" height="160" />
             </a>
             <br><br>
-            <p>
-              <a href="https://github.com/your-repo-url" target="_blank">
-                <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-              </a>  
-            </p>
-            <p><strong>Python, Pandas, NumPy, Scikit-learn, TensorFlow, R</strong></p>
+            <p><strong>Python, Pandas, NumPy, Machine Learning</strong></p>
             <p>
               Atualmente, estou desenvolvendo um modelo preditivo de receitas publicitárias em parceria com a Rede Gazeta do Espírito Santo. O projeto tem como objetivo aprimorar o processo de tomada de decisões dos gestores.
             </p>
@@ -151,11 +139,10 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
               <img src="images/btg.png" alt="BTG Pactual" width="250" height="160" />
             </a>
             <br><br>
-            <p><strong>UX Banking, Gamificação</strong></p>
+            <p><strong>Figma, Scrum, UX, UI</strong></p>
             <p>
               Durante meu estágio de férias na área de UX Banking no BTG Pactual, desenvolvi uma proposta para aprimorar a experiência de solicitação de crédito para clientes pessoa física. 
             </p>
-            <p><strong>Figma, Scrum, UX, UI</strong></p>
           </div>
         </td>
         <td width="50%">
@@ -172,7 +159,21 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
             </p>
             <p><strong>Python, JS, UX, UI, Scrum, Figma, Node.JS</strong></p>
             <p>
-              Sou membro da Inteli Junior, a empresa júnior do Inteli, onde atuo em duas áreas principais. Na área de Projetos, contribuo para o desenvolvimento de soluções para os clientes da empresa, aplicando minhas habilidades técnicas e gerenciais. Na área de Pessoas, atuo no apoio à mediação de conflitos e na promoção do bem-estar dos membros, buscando sempre um ambiente colaborativo e saudável para todos.
+              Sou membro da Inteli Junior, a empresa júnior do Inteli, onde atuo em duas áreas principais. Na área de Projetos, contribuo para o desenvolvimento de soluções para os clientes da empresa, aplicando minhas habilidades técnicas e gerenciais. Na área de Pessoas, atuo no apoio à mediação de conflitos entre os membros.
+            </p>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td width="50%">
+          <h3 align="center">Assessor da Diretoria de Pessoas</h3>
+          <div align="center">  
+            <a href="#">
+              <img src="images/turing.png" alt="Turing" width="250" height="160" />
+            </a>
+            <br><br>
+            <p>
+              No coletivo Turing, atuo como assessor da diretoria de pessoas, onde sou responsável pela mediação de conflitos entre os membros e pela promoção do bem-estar geral. Minha função é assegurar um ambiente acolhedor e colaborativo, facilitando a convivência e contribuindo para o fortalecimento da comunidade.
             </p>
           </div>
         </td>
@@ -198,12 +199,12 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
           </div>
         </td>
         <td width="50%">
-          <h3 align="center">Inteli (Cópia)</h3>
+          <h3 align="center">UNIVESP</h3>
           <div align="center">  
             <a href='#' target="_blank">
               <img src="images/univesp.png" alt="UNIVESP" width="250" height="160" />
             </a>
-            <p><strong>Tecnologia da informação</strong></p>
+            <p><strong>Tecnologia da Informação</strong></p>
             <p>Estudo Tecnologia da Informação na UNIVESP, onde tenho a oportunidade de aplicar meus conhecimentos em projetos integradores que simulam desafios reais do mercado. Esses projetos abordam diversas áreas, como desenvolvimento de software, gestão de dados e infraestrutura de TI.</p>
           </div>
         </td>
@@ -219,7 +220,7 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
     <table style="width: 100%;">
       <tr>
         <td width="50%">
-          <h3 align="center">Aluno mediador</h3>
+          <h3 align="center">Aluno Mediador</h3>
           <div align="center">  
             <a href='#' target="_blank">
               <img src="images/inteli.jpeg" alt="Inteli" width="250" height="160" />
@@ -235,6 +236,18 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
               <img src="images/inteli.jpeg" alt="Inteli" width="250" height="160" />
             </a>
             <p>Atuo como mentor na comunidade Wave, uma iniciativa dedicada a apoiar candidatos durante o processo seletivo do Inteli. Meu papel como mentor é oferecer suporte aos mentorados, esclarecendo suas dúvidas, ajudando a lidar com desafios e proporcionando orientação ao longo de toda a jornada de preparação.
+</p>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td width="50%">
+          <h3 align="center">Pesquisador Voluntário</h3>
+          <div align="center">  
+            <a href='#' target="_blank">
+              <img src="images/fs.png" alt="FamilySearch" width="250" height="160" />
+            </a>
+            <p>Atuo como pesquisador e indexador genealógico voluntário no FamilySearch, a maior plataforma de genealogia do mundo. Meu papel é auxiliar pessoas na descoberta de suas raízes e histórias familiares, contribuindo para que elas possam se conectar com seu passado e compreender melhor sua ancestralidade.
 </p>
           </div>
         </td>
