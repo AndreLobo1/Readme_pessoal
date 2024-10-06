@@ -42,9 +42,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?duration=4000&pause=800&color=195AB4&center=true&vCenter=true&width=500&lines=Engenheiro+de+Software+em+Formação;Eterno+Estudante;Voluntário;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 </p>
 
-Olá! Eu sou André Lobo, estudante do primeiro ano de Engenharia de Software no [Inteli](https://www.inteli.edu.br/). Sou apaixonado por tecnologia e inovação, sempre buscando novos desafios e aprendizados. Além disso, tenho um forte interesse por causas sociais e procuro integrar essas paixões em meus projetos.
+Olá! Eu sou André Lobo, estudante de Engenharia de Software no Inteli – Instituto de Tecnologia e Liderança, onde fui aprovado com bolsa integral e auxílios. Paralelamente, também estudo Tecnologia da Informação na Univesp (Universidade Virtual do Estado de São Paulo), onde fui aprovado em quinto lugar no processo seletivo. Cursar duas graduações simultaneamente reflete minha sede por conhecimento e minha crença de que nunca devemos parar de aprender.
 
-Atualmente, estou trabalhando em um modelo preditivo de receita em parceria com a [Rede Gazeta do Espírito Santo](https://www.gazetaonline.com.br/), o que tem sido uma experiência enriquecedora. Estou constantemente explorando novas oportunidades para crescer e contribuir para a sociedade através da tecnologia.
+Sou voluntário há mais de dois anos no Family Search, uma organização que me permitiu transformar meu hobby de genealogia em uma experiência de voluntariado. Ajudar outras pessoas a descobrirem suas origens tem sido uma jornada enriquecedora e gratificante.
+
+Também atuo como mediador de conflitos no Inteli, onde voluntariamente ajudo a resolver desacordos entre colegas. Essa função me permite exercitar minhas habilidades interpessoais e de comunicação, essenciais tanto no ambiente acadêmico quanto no corporativo.
+
+Faço parte da Inteli Junior, onde atuo na área de projetos, desenvolvendo soluções para os clientes da empresa, e também na área de pessoas, onde auxilio no bem-estar dos membros e na mediação de conflitos. Esse papel reforça minhas habilidades de liderança, colaboração e resolução de problemas, essenciais em um ambiente ágil.
+
+Além disso, sou assessor da diretoria de pessoas no coletivo LGBTQIA+ do Inteli, o Turing, onde também atuo na mediação de conflitos, garantindo que os membros tenham um ambiente saudável e inclusivo.
+
+Tenho um grande interesse por liderança, gestão de equipes e desenvolvimento de soft skills, e acredito que habilidades técnicas são maximizadas quando combinadas com uma comunicação assertiva e empática. Sou apaixonado por trabalhar em equipe e sempre procuro entender as dores e necessidades do usuário para desenvolver soluções que realmente façam a diferença.
+
+Busco combinar minhas habilidades técnicas e interpessoais para desenvolver soluções inovadoras que causem impacto positivo, especialmente para públicos sub-representados na sociedade.
 
 # 📫 Gostaria de me conhecer?
 
