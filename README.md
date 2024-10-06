@@ -106,7 +106,7 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
                 <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
               </a>
             </p>
-            <p><strong>HTML, CSS, JavaScript, Node.js, Figma</strong></p>
+            <p><strong>HTML, CSS, JavaScript, Node.js, Figma, Sails.js</strong></p>
             <p>
               Plataforma web desenvolvida em parceria com a Zuyd University, com o objetivo de apoiar estudantes internacionais durante uma simulação de negócios utilizando 
               o CESIM Game.
@@ -153,16 +153,16 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
             <br><br>
             <p><strong>UX Banking, Gamificação</strong></p>
             <p>
-              Estágio de férias realizado em Julho de 2022. <br> Atuei na melhoria da experiência de solicitação de crédito, aplicando heurísticas de Nielsen.
+              Durante meu estágio de férias na área de UX Banking no BTG Pactual, desenvolvi uma proposta para aprimorar a experiência de solicitação de crédito para clientes pessoa física. 
             </p>
             <p><strong>Figma, Scrum, UX, UI</strong></p>
           </div>
         </td>
         <td width="50%">
-          <h3 align="center">Modelo Preditivo de Receita (Cópia)</h3>
+          <h3 align="center">Inteli Júnior</h3>
           <div align="center">  
             <a href="#">
-              <img src="images/redeGazeta.png" alt="Rede Gazeta" width="250" height="160" />
+              <img src="images/intelijr.png" alt="Inteli Júnior" width="250" height="160" />
             </a>
             <br><br>
             <p>
@@ -170,9 +170,9 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
                 <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
               </a>  
             </p>
-            <p><strong>Python, Pandas, NumPy, Scikit-learn, TensorFlow, R</strong></p>
+            <p><strong>Python, JS, UX, UI, Scrum, Figma, Node.JS</strong></p>
             <p>
-              Projeto em andamento iniciado em Junho de 2023. <br> Estou desenvolvendo um modelo preditivo para a previsão de receitas publicitárias em parceria com a Rede Gazeta do Espírito Santo.
+              Sou membro da Inteli Junior, a empresa júnior do Inteli, onde atuo em duas áreas principais. Na área de Projetos, contribuo para o desenvolvimento de soluções para os clientes da empresa, aplicando minhas habilidades técnicas e gerenciais. Na área de Pessoas, atuo no apoio à mediação de conflitos e na promoção do bem-estar dos membros, buscando sempre um ambiente colaborativo e saudável para todos.
             </p>
           </div>
         </td>
