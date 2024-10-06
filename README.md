@@ -54,7 +54,7 @@ Busco combinar minhas habilidades técnicas e interpessoais para desenvolver sol
 
 <img align="right" src="images/octocat-1728091336749.png" alt="Imagem Reunião" width="250" height="250" style="margin-right: 20px; margin-left: -50px; margin-bottom: 20px;">
 
-Escolha um horário que seja conveniente para você e vamos conversar sobre qualquer assunto que achar relevante 😊! Por favor, inclua uma breve descrição da agenda para que possamos aproveitar ao máximo nosso encontro.
+Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o horário que for mais conveniente para você. Não se esqueça de incluir uma breve descrição do assunto que deseja conversar para que possamos aproveitar ao máximo nosso encontro. Estou ansioso para nossa troca de ideias!
 
 <a href="https://calendly.com/andrelobo/papo-com-andre-lobo" target="_blank">
     <img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png">
