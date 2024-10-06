@@ -194,17 +194,17 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
               <img src="images/inteli.jpeg" alt="Inteli" width="250" height="160" />
             </a>
             <p><strong>Engenharia de Software</strong></p>
-            <p>Iniciado em Janeiro de 2022. <br> Estudo com foco em desenvolvimento de software, projetos em parceria com empresas e metodologias ágeis.</p>
+            <p>Estudo Engenharia de Software, aplicando meus conhecimentos em projetos práticos desenvolvidos em parceria com empresas reais do mercado. Durante o curso, tenho aprendido sobre metodologias ágeis, além de desenvolver competências essenciais como soft skills, ética profissional e liderança.</p>
           </div>
         </td>
         <td width="50%">
           <h3 align="center">Inteli (Cópia)</h3>
           <div align="center">  
             <a href='#' target="_blank">
-              <img src="images/inteli.jpeg" alt="Inteli" width="250" height="160" />
+              <img src="images/univesp.png" alt="UNIVESP" width="250" height="160" />
             </a>
-            <p><strong>Engenharia de Software</strong></p>
-            <p>Iniciado em Janeiro de 2022. <br> Estudo com foco em desenvolvimento de software, projetos em parceria com empresas e metodologias ágeis.</p>
+            <p><strong>Tecnologia da informação</strong></p>
+            <p>Estudo Tecnologia da Informação na UNIVESP, onde tenho a oportunidade de aplicar meus conhecimentos em projetos integradores que simulam desafios reais do mercado. Esses projetos abordam diversas áreas, como desenvolvimento de software, gestão de dados e infraestrutura de TI.</p>
           </div>
         </td>
       </tr>
