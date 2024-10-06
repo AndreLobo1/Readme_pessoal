@@ -108,7 +108,8 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
             </p>
             <p><strong>HTML, CSS, JavaScript, Node.js, Figma</strong></p>
             <p>
-              Projeto realizado em Março de 2022.<br> Plataforma web desenvolvida para apoiar estudantes internacionais em uma simulação de negócios.
+              Plataforma web desenvolvida em parceria com a Zuyd University, com o objetivo de apoiar estudantes internacionais durante uma simulação de negócios utilizando 
+              o CESIM Game.
             </p>
           </div>
         </td>
