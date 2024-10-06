@@ -129,7 +129,7 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
             </p>
             <p><strong>Python, Pandas, NumPy, Scikit-learn, TensorFlow, R</strong></p>
             <p>
-              Projeto em andamento iniciado em Junho de 2023. <br> Estou desenvolvendo um modelo preditivo para a previsão de receitas publicitárias em parceria com a Rede Gazeta do Espírito Santo.
+              Atualmente, estou desenvolvendo um modelo preditivo de receitas publicitárias em parceria com a Rede Gazeta do Espírito Santo. O projeto tem como objetivo aprimorar o processo de tomada de decisões dos gestores.
             </p>
           </div>
         </td>
