@@ -29,7 +29,7 @@
       </a>
     </td>
     <td align="center" style="padding-right: 10px;">
-      <a href="https://instagram.com/seu_instagram" target="_blank">
+      <a href="https://instagram.com/andre.lobo_" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Finstagram.com%2Fseu_instagram&subtitle=@seu_instagram&size=square" alt="André Lobo - Instagram">
       </a>
     </td>
