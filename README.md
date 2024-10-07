@@ -133,15 +133,20 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
           </div>
         </td>
         <td width="50%">
-          <h3 align="center">Modelo Preditivo Vencedor Campeonato Inteli</h3>
+          <h3 align="center">Modelo Preditivo: Vencedor da Competição Inteli</h3>
           <div align="center">  
             <a href="#">
-              <img src="images/spotify.png" alt="Modelo Preditivo" width="250" height="160" />
+              <img src="images/spotify.svg" alt="Modelo Preditivo Spotify" width="250" height="160" />
             </a>
             <br><br>
-            <p><strong>Desenvolvimento de Modelos Preditivos</strong></p>
             <p>
-              Desenvolvi um modelo preditivo para prever se uma música será popular ou não com base nos dados dela. O modelo foi desenvolvido para a competição de modelos preditivos do Inteli, onde fiquei em primeiro lugar da minha turma e terceiro no ranking geral da faculdade. O campeonato foi realizado no Kaggle.
+              <a href="https://github.com/AndreLobo1/modelo-preditivo-spotify" target="_blank">
+                <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+              </a>
+            </p>
+            <p><strong>Machine Learing, Pandas, Numpy, Python Gradient Boosting</strong></p>
+            <p>
+              Desenvolvi um modelo preditivo para prever se uma música será popular ou não com base nos dados dela. O modelo foi desenvolvido para a competição de modelos preditivos do Inteli, onde fiquei em primeiro lugar da minha turma e terceiro no ranking geral da faculdade, o campeonato foi realizado no Kaggle.
             </p>
           </div>
         </td>
@@ -149,6 +154,7 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
     </table>
   </div>
 </details>
+
 
 
 <details open> 
