@@ -63,7 +63,7 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
 <br><br>
 
 <details open> 
-  <summary><h2>⚙️ Projects</h2></summary>
+  <summary><h2>⚙️ Projetos</h2></summary>
 
   <div align="center">
     <table>
@@ -157,7 +157,7 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
             <br><br>
             <p><strong>Python, JS, UX, UI, Scrum, Figma, Node.JS</strong></p>
             <p>
-              Sou membro da Inteli Junior, a empresa júnior do Inteli, onde atuo em duas áreas principais. Na área de Projetos, contribuo para o desenvolvimento de soluções para os clientes da empresa, aplicando minhas habilidades técnicas e gerenciais. Na área de Pessoas, atuo no apoio à mediação de conflitos entre os membros.
+              Sou membro da Inteli Junior, a empresa júnior do Inteli, onde atuo em duas áreas principais. Na área de Projetos, contribuo para o desenvolvimento de soluções para os clientes da empresa e na área de pessoas, atuo no apoio à mediação de conflitos entre os membros.
             </p>
           </div>
         </td>
@@ -170,7 +170,7 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
               <img src="images/turing.jpg" alt="Turing" width="250" height="160" />
             </a>
             <p><strong>Assessor da Diretoria de Pessoas</strong></p>
-            <p>No coletivo Turing, atuo como assessor da diretoria de pessoas, onde sou responsável pela mediação de conflitos entre os membros e pela promoção do bem-estar geral. Minha função é assegurar um ambiente acolhedor e colaborativo, facilitando a convivência e contribuindo para o fortalecimento da comunidade.</p>
+            <p>No coletivo Turing, atuo como assessor da diretoria de pessoas, onde sou responsável pela mediação de conflitos entre os membros e pela promoção do bem-estar geral. Minha função é assegurar um ambiente acolhedor e colaborativo.</p>
           </div>
         </td>
       </tr>
@@ -191,7 +191,7 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
               <img src="images/inteli.jpeg" alt="Inteli" width="250" height="160" />
             </a>
             <p><strong>Engenharia de Software</strong></p>
-            <p>Estudo Engenharia de Software no Inteli, onde aplico os conhecimentos adquiridos em projetos reais desenvolvidos em parceria com empresas do mercado. A metodologia de ensino é focada em projetos práticos, possibilitando o aprendizado de metodologias ágeis, soft skills, ética profissional e liderança, preparando os alunos para o mercado de trabalho.</p>
+            <p>Estudo Engenharia de Software no Inteli, onde aplico os conhecimentos adquiridos em projetos reais desenvolvidos em parceria com empresas do mercado. A metodologia de ensino é focada em projetos práticos, possibilitando o aprendizado de metodologias ágeis, soft skills, ética profissional e liderança.</p>
           </div>
         </td>
         <td width="50%">
@@ -216,7 +216,7 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
     <table style="width: 100%;">
       <tr>
         <td width="50%">
-          <h3 align="center">Aluno Mediador</h3>
+          <h3 align="center">Aluno Mediador voluntário</h3>
           <div align="center">  
             <a href='#' target="_blank">
               <img src="images/inteli.jpeg" alt="Inteli" width="250" height="160" />
