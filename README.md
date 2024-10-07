@@ -330,13 +330,6 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
 
 </div>
 
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?quote=Seja%20o%20engenheiro,%20não%20o%20robô.&type=horizontal&theme=dark&border=true&align=center)
-
-</div>
-
-
 <p align ="center"> Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="25px"></p>
 
 <p align="center">⬇️Aqui estão alguns dos meus projetos mais recentes, explore e contribua se possível⬇!⬇️</p>
