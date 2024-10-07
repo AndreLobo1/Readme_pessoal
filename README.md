@@ -42,10 +42,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?duration=4000&pause=800&color=195AB4&center=true&vCenter=true&width=500&lines=Engenheiro+de+Software+em+Formação;Eterno+Estudante;Voluntário;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=4000&pause=800&color=195AB4&center=true&vCenter=true&width=500&lines=Obrigado+pela+sua+visita;Volte+sempre" alt="Typing SVG" />
-</p>
-
 Olá! Eu sou André Lobo, estudante de Engenharia de Software no Inteli – Instituto de Tecnologia e Liderança, onde fui aprovado com bolsa integral e auxílios. Paralelamente, também estudo Tecnologia da Informação na Univesp (Universidade Virtual do Estado de São Paulo), onde fui aprovado em quinto lugar no processo seletivo. Cursar duas graduações simultaneamente reflete minha sede por conhecimento e minha crença de que nunca devemos parar de aprender.
 
 Sou voluntário há mais de dois anos no Family Search, uma organização que me permitiu transformar meu hobby de genealogia em uma experiência de voluntariado. Ajudar outras pessoas a descobrirem suas origens tem sido uma jornada enriquecedora e gratificante.
@@ -323,6 +319,10 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
 </div>
 
 <p align="center"> Mostre um pouco de ❤️ deixando uma <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> nesse repositório <img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="25px"> </p> 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=4000&pause=800&color=195AB4&center=true&vCenter=true&width=500&lines=Obrigado+pela+sua+visita;Volte+sempre" alt="Typing SVG" />
+</p>
 
 <p align="center">
 👨‍💻 com 💜 por André 🐺
