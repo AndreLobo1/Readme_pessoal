@@ -284,7 +284,7 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
   <summary><h2>📜 Licenças e Certificados</h2></summary>
 
   <div align="center">
-    <table style="width: 100%;">
+    <table style="width: 50%;">
       <tr>
         <td width="50%">
           <h3 align="center">Mediação de Conflitos</h3>
