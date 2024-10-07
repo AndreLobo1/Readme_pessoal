@@ -117,25 +117,39 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
       </tr>
       <tr>
         <td width="50%">
-<h3 align="center">Modelo Preditivo de Receita</h3>
-<div align="center">  
-  <a href="#">
-    <img src="images/redeGazeta.png" alt="Rede Gazeta" width="250" height="160" />
-  </a>
-  <br><br>
-      <p>
-    <img src="https://img.shields.io/badge/Em%20Desenvolvimento-orange?style=for-the-badge"/>
-  </p>
-  <p><strong>Python, Pandas, NumPy, Machine Learning</strong></p>
-  <p>
-    Atualmente, estou desenvolvendo um modelo preditivo de receitas publicitárias em parceria com a Rede Gazeta do Espírito Santo. O projeto tem como objetivo aprimorar o processo de tomada de decisões dos gestores.
-  </p>
-</div>
+          <h3 align="center">Modelo Preditivo de Receita</h3>
+          <div align="center">  
+            <a href="#">
+              <img src="images/redeGazeta.png" alt="Rede Gazeta" width="250" height="160" />
+            </a>
+            <br><br>
+            <p>
+              <img src="https://img.shields.io/badge/Em%20Desenvolvimento-orange?style=for-the-badge"/>
+            </p>
+            <p><strong>Python, Pandas, NumPy, Machine Learning</strong></p>
+            <p>
+              Atualmente, estou desenvolvendo um modelo preditivo de receitas publicitárias em parceria com a Rede Gazeta do Espírito Santo. O projeto tem como objetivo aprimorar o processo de tomada de decisões dos gestores.
+            </p>
+          </div>
+        </td>
+        <td width="50%">
+          <h3 align="center">Modelo Preditivo Vencedor Campeonato Inteli</h3>
+          <div align="center">  
+            <a href="#">
+              <img src="images/spotify.png" alt="Modelo Preditivo" width="250" height="160" />
+            </a>
+            <br><br>
+            <p><strong>Desenvolvimento de Modelos Preditivos</strong></p>
+            <p>
+              Desenvolvi um modelo preditivo para prever se uma música será popular ou não com base nos dados dela. O modelo foi desenvolvido para a competição de modelos preditivos do Inteli, onde fiquei em primeiro lugar da minha turma e terceiro no ranking geral da faculdade. O campeonato foi realizado no Kaggle.
+            </p>
+          </div>
         </td>
       </tr>
     </table>
   </div>
 </details>
+
 
 <details open> 
   <summary><h2>🏢 Experiência Profissional</h2></summary>
