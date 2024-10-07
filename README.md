@@ -63,7 +63,7 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
 <br><br>
 
 <details open> 
-  <summary><h2>⚙️ Projetos</h2></summary>
+  <summary><h2>⚙️ Projects</h2></summary>
 
   <div align="center">
     <table>
@@ -152,11 +152,6 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
               <img src="images/intelijr.jpg" alt="Inteli Júnior" width="250" height="160" />
             </a>
             <br><br>
-            <p>
-              <a href="https://github.com/your-repo-url" target="_blank">
-                <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-              </a>  
-            </p>
             <p><strong>Python, JS, UX, UI, Scrum, Figma, Node.JS</strong></p>
             <p>
               Sou membro da Inteli Junior, a empresa júnior do Inteli, onde atuo em duas áreas principais. Na área de Projetos, contribuo para o desenvolvimento de soluções para os clientes da empresa, aplicando minhas habilidades técnicas e gerenciais. Na área de Pessoas, atuo no apoio à mediação de conflitos entre os membros.
@@ -166,15 +161,13 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
       </tr>
       <tr>
         <td width="50%">
-          <h3 align="center">Assessor da Diretoria de Pessoas</h3>
+          <h3 align="center">Coletivo Turing</h3>
           <div align="center">  
             <a href="#">
               <img src="images/turing.jpg" alt="Turing" width="250" height="160" />
             </a>
-            <br><br>
-            <p>
-              No coletivo Turing, atuo como assessor da diretoria de pessoas, onde sou responsável pela mediação de conflitos entre os membros e pela promoção do bem-estar geral. Minha função é assegurar um ambiente acolhedor e colaborativo, facilitando a convivência e contribuindo para o fortalecimento da comunidade.
-            </p>
+            <p><strong>Assessor da Diretoria de Pessoas</strong></p>
+            <p>No coletivo Turing, atuo como assessor da diretoria de pessoas, onde sou responsável pela mediação de conflitos entre os membros e pela promoção do bem-estar geral. Minha função é assegurar um ambiente acolhedor e colaborativo, facilitando a convivência e contribuindo para o fortalecimento da comunidade.</p>
           </div>
         </td>
       </tr>
@@ -189,13 +182,13 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
     <table style="width: 100%;">
       <tr>
         <td width="50%">
-          <h3 align="center">Inteli</h3>
+          <h3 align="center">Aluno Mediador</h3>
           <div align="center">  
             <a href='#' target="_blank">
               <img src="images/inteli.jpeg" alt="Inteli" width="250" height="160" />
             </a>
-            <p><strong>Engenharia de Software</strong></p>
-            <p>Estudo Engenharia de Software, aplicando meus conhecimentos em projetos práticos desenvolvidos em parceria com empresas reais do mercado. Durante o curso, tenho aprendido sobre metodologias ágeis, além de desenvolver competências essenciais como soft skills, ética profissional e liderança.</p>
+            <p><strong>Inteli</strong></p>
+            <p>Sou mediador de alunos no Inteli, onde atuo auxiliando na mediação de conflitos entre colegas. Nesse papel, desenvolvo minhas soft skills, enquanto contribuo para um ambiente acadêmico mais colaborativo e harmonioso.</p>
           </div>
         </td>
         <td width="50%">
@@ -220,41 +213,30 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
     <table style="width: 100%;">
       <tr>
         <td width="50%">
-          <h3 align="center">Aluno Mediador</h3>
-          <div align="center">  
-            <a href='#' target="_blank">
-              <img src="images/inteli.jpeg" alt="Inteli" width="250" height="160" />
-            </a>
-            <p>Sou mediador de alunos no Inteli, onde atuo auxiliando na mediação de conflitos entre colegas. Nesse papel, desenvolvo minhas soft skills, enquanto contribuo para um ambiente acadêmico mais colaborativo e harmonioso.
-</p>
-          </div>
-        </td>
-        <td width="50%">
           <h3 align="center">Comunidade Wave</h3>
           <div align="center">  
             <a href='#' target="_blank">
               <img src="images/wave.jpg" alt="Wave" width="250" height="160" />
             </a>
-            <p>Atuo como mentor na comunidade Wave, uma iniciativa dedicada a apoiar candidatos durante o processo seletivo do Inteli. Meu papel como mentor é oferecer suporte aos mentorados, esclarecendo suas dúvidas, ajudando a lidar com desafios e proporcionando orientação ao longo de toda a jornada de preparação.
-</p>
+            <p><strong>Mentor Voluntário</strong></p>
+            <p>Atuo como mentor na comunidade Wave, uma iniciativa dedicada a apoiar candidatos durante o processo seletivo do Inteli. Meu papel como mentor é oferecer suporte aos mentorados, esclarecendo suas dúvidas, ajudando a lidar com desafios e proporcionando orientação ao longo de toda a jornada de preparação.</p>
           </div>
         </td>
-      </tr>
-      <tr>
         <td width="50%">
-          <h3 align="center">Pesquisador Voluntário</h3>
+          <h3 align="center">FamilySearch</h3>
           <div align="center">  
             <a href='#' target="_blank">
               <img src="images/fs.jpg" alt="FamilySearch" width="250" height="160" />
             </a>
-            <p>Atuo como pesquisador e indexador genealógico voluntário no FamilySearch, a maior plataforma de genealogia do mundo. Meu papel é auxiliar pessoas na descoberta de suas raízes e histórias familiares, contribuindo para que elas possam se conectar com seu passado e compreender melhor sua ancestralidade.
-</p>
+            <p><strong>Pesquisador e Indexador Voluntário</strong></p>
+            <p>Atuo como pesquisador e indexador genealógico voluntário no FamilySearch, a maior plataforma de genealogia do mundo. Meu papel é auxiliar pessoas na descoberta de suas raízes e histórias familiares, contribuindo para que elas possam se conectar com seu passado e compreender melhor sua ancestralidade.</p>
           </div>
         </td>
       </tr>
     </table>
   </div>
 </details>
+
 
 
 
