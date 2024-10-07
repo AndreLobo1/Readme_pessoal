@@ -252,10 +252,6 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
   </div>
 </details>
 
-<div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndreLobo1&theme=highcontrast&border_radius=5&locale=pt_BR&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-</div>
-
 <details> 
   <summary><h2>🛠️ Minhas Ferramentas Favoritas</h2></summary>
 
@@ -327,6 +323,13 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
   </p>
 
 </details>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndreLobo1&theme=highcontrast&border_radius=5&locale=pt_BR&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+</div>
+
 
 <p align ="center"> Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="25px"></p>
 
