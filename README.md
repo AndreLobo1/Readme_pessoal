@@ -244,12 +244,12 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
     <table style="width: 100%;">
       <tr>
         <td width="50%">
-          <h3 align="center">Aluno Mediador voluntário</h3>
+          <h3 align="center">Inteli</h3>
           <div align="center">  
             <a href='#' target="_blank">
               <img src="images/inteli.jpeg" alt="Inteli" width="250" height="160" />
             </a>
-            <p><strong>Inteli</strong></p>
+            <p><strong>Aluno Mediador voluntário</strong></p>
             <p>Sou mediador de alunos no Inteli, onde atuo auxiliando na mediação de conflitos entre colegas. Nesse papel, desenvolvo minhas soft skills, enquanto contribuo para um ambiente acadêmico mais colaborativo e harmonioso.</p>
           </div>
         </td>
