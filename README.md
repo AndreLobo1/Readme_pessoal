@@ -280,23 +280,21 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
   </div>
 </details>
 
-<details> 
+<details>
   <summary><h2>📜 Licenças e Certificados</h2></summary>
 
   <div align="center">
-    <table>
+    <table style="width: 100%;">
       <tr>
         <td width="50%">
           <h3 align="center">Mediação de Conflitos</h3>
           <div align="center">  
             <a href="https://raw.githubusercontent.com/AndreLobo1/Readme_pessoal/main/images/certificado.jpg">
-              <img src="images/mediacao.png" alt="Mediação de Conflitos" width="250" height="160" />
+              <img src="https://raw.githubusercontent.com/AndreLobo1/Readme_pessoal/main/images/certificado.jpg" alt="Certificado de Mediação de Conflitos" width="250" height="160" />
             </a>
             <br><br>
             <p><strong>Soft Skills, Mediação de Conflitos</strong></p>
-            <p>
-              Concluí o programa de formação de alunos mediadores promovido pela Consultoria Gente Gente em parceria com o CRU Institute - USA. Este programa me proporcionou habilidades essenciais para a mediação eficaz de conflitos.
-            </p>
+            <p>Concluí o programa de formação de alunos mediadores promovido pela Consultoria Gente Gente em parceria com o CRU Institute - USA. Este programa me proporcionou habilidades essenciais para a mediação eficaz de conflitos.</p>
           </div>
         </td>
       </tr>
