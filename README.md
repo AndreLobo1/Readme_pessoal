@@ -101,7 +101,7 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
             </p>
             <p><strong>HTML, CSS, JavaScript, Node.js, Figma, Sails.js</strong></p>
             <p>
-              Plataforma web desenvolvida em parceria com a Zuyd University, com o objetivo de apoiar estudantes internacionais durante uma simulação de negócios utilizando 
+              Plataforma web desenvolvida em parceria com a Zuyd University, com o objetivo de apoiar estudantes internacionais durante uma simulação de negócios, 
               o CESIM Game.
             </p>
           </div>
@@ -109,17 +109,20 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
       </tr>
       <tr>
         <td width="50%">
-          <h3 align="center">Modelo Preditivo de Receita</h3>
-          <div align="center">  
-            <a href="#">
-              <img src="images/redeGazeta.png" alt="Rede Gazeta" width="250" height="160" />
-            </a>
-            <br><br>
-            <p><strong>Python, Pandas, NumPy, Machine Learning</strong></p>
-            <p>
-              Atualmente, estou desenvolvendo um modelo preditivo de receitas publicitárias em parceria com a Rede Gazeta do Espírito Santo. O projeto tem como objetivo aprimorar o processo de tomada de decisões dos gestores.
-            </p>
-          </div>
+<h3 align="center">Modelo Preditivo de Receita</h3>
+<div align="center">  
+  <a href="#">
+    <img src="images/redeGazeta.png" alt="Rede Gazeta" width="250" height="160" />
+  </a>
+  <br><br>
+  <p><strong>Python, Pandas, NumPy, Machine Learning</strong></p>
+  <p>
+    Atualmente, estou desenvolvendo um modelo preditivo de receitas publicitárias em parceria com a Rede Gazeta do Espírito Santo. O projeto tem como objetivo aprimorar o processo de tomada de decisões dos gestores.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Em%20Desenvolvimento-orange?style=for-the-badge"/>
+  </p>
+</div>
         </td>
       </tr>
     </table>
