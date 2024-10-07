@@ -280,24 +280,23 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
   </div>
 </details>
 
-<details>
+<details> 
   <summary><h2>📜 Licenças e Certificados</h2></summary>
 
   <div align="center">
     <h3 align="center">Mediação de Conflitos</h3>
     <div align="center">  
       <a href="#">
-        <img src="images/certificado.jpg" alt="Certificado Mediação de Conflitos" width="250" height="160" />
+        <img src="images/certificado.jpg" alt="Mediação de Conflitos" width="250" height="160" />
       </a>
       <br><br>
-      <p><strong>Técnicas: Soft Skills, Mediação de Conflitos</strong></p>
+      <p><strong>Técnicas:</strong> Soft Skills, Mediação de Conflitos</p>
       <p>
-        Concluí o programa de formação de alunos mediadores promovido pela Consultoria Gente Gente em parceria com o CRU Institute - USA.
+        Concluí o programa de formação de alunos mediadores promovido pela Consultoria Gente Gente em parceria com o CRU Institute - USA. Este programa me proporcionou habilidades essenciais para a mediação eficaz de conflitos.
       </p>
     </div>
   </div>
 </details>
-
 
 <details> 
   <summary><h2>🛠️ Minhas Ferramentas Favoritas</h2></summary>
