@@ -117,10 +117,10 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
   <br><br>
   <p><strong>Python, Pandas, NumPy, Machine Learning</strong></p>
   <p>
-    Atualmente, estou desenvolvendo um modelo preditivo de receitas publicitárias em parceria com a Rede Gazeta do Espírito Santo. O projeto tem como objetivo aprimorar o processo de tomada de decisões dos gestores.
+    <img src="https://img.shields.io/badge/Em%20Desenvolvimento-orange?style=for-the-badge"/>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Em%20Desenvolvimento-orange?style=for-the-badge"/>
+    Atualmente, estou desenvolvendo um modelo preditivo de receitas publicitárias em parceria com a Rede Gazeta do Espírito Santo. O projeto tem como objetivo aprimorar o processo de tomada de decisões dos gestores.
   </p>
 </div>
         </td>
