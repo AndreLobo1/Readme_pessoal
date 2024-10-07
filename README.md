@@ -263,8 +263,8 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
       <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
       <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
       <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
       <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <a href="#"><img alt="POO" src="https://img.shields.io/badge/POO-00599C.svg?logo=oop&logoColor=white"></a>
   </p>
 
   <h3>🧰 Frameworks e Bibliotecas</h3>
@@ -275,14 +275,29 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+      <a href="#"><img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748.svg?logo=mocha&logoColor=white"></a>
+      <a href="#"><img alt="Sinon" src="https://img.shields.io/badge/Sinon-003E54.svg?logo=sinon&logoColor=white"></a>
+      <a href="#"><img alt="Tiled" src="https://img.shields.io/badge/Tiled-58A6FF.svg?logo=tiled&logoColor=white"></a>
+      <a href="#"><img alt="Libra Sprite" src="https://img.shields.io/badge/Libra_Sprite-00A3E0.svg?logo=libra-sprite&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Bancos de Dados e Hospedagem na Nuvem</h3>
   <p>
       <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
       <a href="#"><img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-1B1B1B.svg?logo=dbeaver&logoColor=white"></a>
-      <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+      <a href="#"><img alt="SQLDesigner" src="https://img.shields.io/badge/SQLDesigner-1A73E8.svg?logo=sqldesigner&logoColor=white"></a>
+  </p>
+
+  <h3>🛠️ Metodologias, Padrões e Ferramentas de Gestão</h3>
+  <p>
+      <a href="#"><img alt="Agile" src="https://img.shields.io/badge/Agile-FF4500.svg?logo=agile&logoColor=white"></a>
+      <a href="#"><img alt="Kanban" src="https://img.shields.io/badge/Kanban-0097A7.svg?logo=kanban&logoColor=white"></a>
+      <a href="#"><img alt="Gitflow" src="https://img.shields.io/badge/Gitflow-563D7C.svg?logo=gitflow&logoColor=white"></a>
+      <a href="#"><img alt="Gestão Ágil de Projetos" src="https://img.shields.io/badge/Gestão_Ágil-FF6F00.svg?logo=agile&logoColor=white"></a>
+      <a href="#"><img alt="Modularização de Código" src="https://img.shields.io/badge/Modularização-6DB33F.svg?logo=modularization&logoColor=white"></a>
+      <a href="#"><img alt="Padrão AAA (Arrange-Act-Assert)" src="https://img.shields.io/badge/Padrão_AAA_(Arrange--Act--Assert)-7F8C8D.svg?logo=testing&logoColor=white"></a>
+      <a href="#"><img alt="MVC (Model-View-Controller)" src="https://img.shields.io/badge/MVC_(Model--View--Controller)-E34F26.svg?logo=mvc&logoColor=white"></a>
   </p>
 
   <h3>💻 Softwares e Ferramentas</h3>
@@ -296,7 +311,15 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
   </p>
 
+  <h3>📊 Análise de Dados e Machine Learning</h3>
+  <p>
+      <a href="#"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-276DC3.svg?logo=machine-learning&logoColor=white"></a>
+      <a href="#"><img alt="Análise de Dados" src="https://img.shields.io/badge/Análise_de_Dados-6E5494.svg?logo=data-analysis&logoColor=white"></a>
+      <a href="#"><img alt="Modelagem Preditiva" src="https://img.shields.io/badge/Modelagem_Preditiva-0A74DA.svg?logo=pred-modeling&logoColor=white"></a>
+  </p>
+
 </details>
+
 
 
 
