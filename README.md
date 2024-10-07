@@ -50,12 +50,6 @@ Atuo como mediador de conflitos no Inteli, auxiliando voluntariamente na resolu�
 
 Busco combinar minhas habilidades técnicas e interpessoais para desenvolver soluções inovadoras que causem impacto positivo, especialmente para públicos sub-representados na sociedade.
 
-# 📈 Minhas Métricas
-
-<p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndreLobo1&theme=highcontrast&border_radius=5&locale=pt_BR&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-</p>
-
 # 📫 Gostaria de me conhecer?
 
 <img align="right" src="images/octocat-1728091336749.png" alt="Imagem Reunião" width="250" height="250" style="margin-right: 20px; margin-left: -50px; margin-bottom: 20px;">
@@ -67,6 +61,14 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
 </a>
 
 <br><br>
+
+# 📈 Minhas Métricas
+
+<p align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndreLobo1&theme=highcontrast&border_radius=5&locale=pt_BR&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+  
+</p>
 
 <details open> 
   <summary><h2>⚙️ Projetos</h2></summary>
