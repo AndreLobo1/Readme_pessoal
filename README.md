@@ -42,6 +42,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?duration=4000&pause=800&color=195AB4&center=true&vCenter=true&width=500&lines=Engenheiro+de+Software+em+Formação;Eterno+Estudante;Voluntário;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=4000&pause=800&color=195AB4&center=true&vCenter=true&width=500&lines=Obrigado+pela+sua+visita;Volte+sempre" alt="Typing SVG" />
+</p>
+
 Olá! Eu sou André Lobo, estudante de Engenharia de Software no Inteli – Instituto de Tecnologia e Liderança, onde fui aprovado com bolsa integral e auxílios. Paralelamente, também estudo Tecnologia da Informação na Univesp (Universidade Virtual do Estado de São Paulo), onde fui aprovado em quinto lugar no processo seletivo. Cursar duas graduações simultaneamente reflete minha sede por conhecimento e minha crença de que nunca devemos parar de aprender.
 
 Sou voluntário há mais de dois anos no Family Search, uma organização que me permitiu transformar meu hobby de genealogia em uma experiência de voluntariado. Ajudar outras pessoas a descobrirem suas origens tem sido uma jornada enriquecedora e gratificante.
@@ -209,8 +213,8 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
   </div>
 </details>
 
-<details open> 
-  <summary><h2>🎓 Atividades Extracurriculares</h2></summary>
+<details> 
+  <summary><h2>🌟 Atividades Extracurriculares</h2></summary>
 
   <div align="center">
     <table style="width: 100%;">
@@ -297,18 +301,6 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
       <a href="#"><img alt="MVC (Model-View-Controller)" src="https://img.shields.io/badge/MVC_(Model--View--Controller)-E34F26.svg?logo=mvc&logoColor=white"></a>
   </p>
 
-  <h3>💻 Softwares e Ferramentas</h3>
-  <p>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-      <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC.svg?logo=canva&logoColor=white"></a>
-      <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
-      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-      <a href="#"><img alt="SQLDesigner" src="https://img.shields.io/badge/SQLDesigner-1A73E8.svg?logo=sqldesigner&logoColor=white"></a>
-  </p>
-
   <h3>📊 Análise de Dados e Machine Learning</h3>
   <p>
       <a href="#"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-276DC3.svg?logo=machine-learning&logoColor=white"></a>
@@ -341,10 +333,10 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
                       .MM888MM
 ....                .MM88888MP
 MMMMMMMMb.         d8MM8tt8MM
- MM88888MMMMc `:' dMME8ttt8MM
+ MM88888MMMMc :' dMME8ttt8MM
   MM88tt888EMMc:dMM8E88tt88MP
    MM8ttt888EEM8MMEEE8E888MC
-   `MM888t8EEEM8MMEEE8t8888Mb
+   MM888t8EEEM8MMEEE8t8888Mb
     "MM88888tEM8"MME88ttt88MM
      dM88ttt8EM8"MMM888ttt8MM
      MM8ttt88MM" " "MMNICKMM"
