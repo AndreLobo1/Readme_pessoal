@@ -36,7 +36,7 @@
   </tr>
 </table>
 
-# 👋 Hello, World! Sou o André Lobo <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# 👋 Hello, World! Sou o André Lobo
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?duration=4000&pause=800&color=195AB4&center=true&vCenter=true&width=500&lines=Engenheiro+de+Software+em+Formação;Eterno+Estudante;Voluntário;Apaixonado+por+Tecnologia" alt="Typing SVG" />
