@@ -294,7 +294,7 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
             </a>
             <br><br>
             <p><strong>Soft Skills, Mediação de Conflitos</strong></p>
-            <p>Concluí o programa de formação de alunos mediadores promovido pela Consultoria Gente Gente em parceria com o CRU Institute - USA. Este programa me proporcionou habilidades essenciais para a mediação eficaz de conflitos.</p>
+            <p>Concluí o programa de formação de alunos mediadores promovido pela Consultoria Gente Gente em parceria com o CRU Institute - USA. </p>
           </div>
         </td>
       </tr>
