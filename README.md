@@ -114,10 +114,10 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
   <a href="#">
     <img src="images/redeGazeta.png" alt="Rede Gazeta" width="250" height="160" />
   </a>
-    <p>
+  <br><br>
+      <p>
     <img src="https://img.shields.io/badge/Em%20Desenvolvimento-orange?style=for-the-badge"/>
   </p>
-  <br><br>
   <p><strong>Python, Pandas, NumPy, Machine Learning</strong></p>
   <p>
     Atualmente, estou desenvolvendo um modelo preditivo de receitas publicitárias em parceria com a Rede Gazeta do Espírito Santo. O projeto tem como objetivo aprimorar o processo de tomada de decisões dos gestores.
