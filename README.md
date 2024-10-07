@@ -332,5 +332,21 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
 
 <p align="center"> Mostre um pouco de ❤️ deixando uma <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> nesse repositório <img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="25px"> </p> 
 
+<p align="center">
+👨‍💻 com 💜 por André 🐺
+</p>
 
-<p align="center">⬇️Aqui estão alguns dos meus projetos mais recentes, explore e contribua se possível⬇!⬇️</p>
+<!--                       .oMc
+                        .MMMMMP
+                      .MM888MM
+....                .MM88888MP
+MMMMMMMMb.         d8MM8tt8MM
+ MM88888MMMMc `:' dMME8ttt8MM
+  MM88tt888EMMc:dMM8E88tt88MP
+   MM8ttt888EEM8MMEEE8E888MC
+   `MM888t8EEEM8MMEEE8t8888Mb
+    "MM88888tEM8"MME88ttt88MM
+     dM88ttt8EM8"MMM888ttt8MM
+     MM8ttt88MM" " "MMNICKMM"
+     3M88888MM"      "MMMP"
+      "MNICKM" -->
