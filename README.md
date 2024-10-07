@@ -64,11 +64,11 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
 
 # 📈 Minhas Métricas
 
-<p align="center">
+<div align="center">
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndreLobo1&theme=highcontrast&border_radius=5&locale=pt_BR&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
   
-</p>
+</div>
 
 <details open> 
   <summary><h2>⚙️ Projetos</h2></summary>
