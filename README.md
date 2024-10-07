@@ -63,7 +63,7 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
 <br><br>
 
 <details open> 
-  <summary><h2>⚙️ Projects</h2></summary>
+  <summary><h2>⚙️ Projetos</h2></summary>
 
   <div align="center">
     <table>
@@ -149,7 +149,7 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
           <h3 align="center">Inteli Júnior</h3>
           <div align="center">  
             <a href="#">
-              <img src="images/intelijr.png" alt="Inteli Júnior" width="250" height="160" />
+              <img src="images/intelijr.jpg" alt="Inteli Júnior" width="250" height="160" />
             </a>
             <br><br>
             <p>
@@ -169,7 +169,7 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
           <h3 align="center">Assessor da Diretoria de Pessoas</h3>
           <div align="center">  
             <a href="#">
-              <img src="images/turing.png" alt="Turing" width="250" height="160" />
+              <img src="images/turing.jpg" alt="Turing" width="250" height="160" />
             </a>
             <br><br>
             <p>
@@ -202,7 +202,7 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
           <h3 align="center">UNIVESP</h3>
           <div align="center">  
             <a href='#' target="_blank">
-              <img src="images/univesp.png" alt="UNIVESP" width="250" height="160" />
+              <img src="images/logo-univesp_completo_cor-negativo.svg" alt="UNIVESP" width="250" height="160" />
             </a>
             <p><strong>Tecnologia da Informação</strong></p>
             <p>Estudo Tecnologia da Informação na UNIVESP, onde tenho a oportunidade de aplicar meus conhecimentos em projetos integradores que simulam desafios reais do mercado. Esses projetos abordam diversas áreas, como desenvolvimento de software, gestão de dados e infraestrutura de TI.</p>
@@ -233,7 +233,7 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
           <h3 align="center">Comunidade Wave</h3>
           <div align="center">  
             <a href='#' target="_blank">
-              <img src="images/inteli.jpeg" alt="Inteli" width="250" height="160" />
+              <img src="images/wave.jpg" alt="Wave" width="250" height="160" />
             </a>
             <p>Atuo como mentor na comunidade Wave, uma iniciativa dedicada a apoiar candidatos durante o processo seletivo do Inteli. Meu papel como mentor é oferecer suporte aos mentorados, esclarecendo suas dúvidas, ajudando a lidar com desafios e proporcionando orientação ao longo de toda a jornada de preparação.
 </p>
@@ -245,7 +245,7 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
           <h3 align="center">Pesquisador Voluntário</h3>
           <div align="center">  
             <a href='#' target="_blank">
-              <img src="images/fs.png" alt="FamilySearch" width="250" height="160" />
+              <img src="images/fs.jpg" alt="FamilySearch" width="250" height="160" />
             </a>
             <p>Atuo como pesquisador e indexador genealógico voluntário no FamilySearch, a maior plataforma de genealogia do mundo. Meu papel é auxiliar pessoas na descoberta de suas raízes e histórias familiares, contribuindo para que elas possam se conectar com seu passado e compreender melhor sua ancestralidade.
 </p>
@@ -255,6 +255,7 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
     </table>
   </div>
 </details>
+
 
 
 <details> 
