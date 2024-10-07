@@ -182,13 +182,13 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
     <table style="width: 100%;">
       <tr>
         <td width="50%">
-          <h3 align="center">Aluno Mediador</h3>
+          <h3 align="center">Inteli</h3>
           <div align="center">  
             <a href='#' target="_blank">
               <img src="images/inteli.jpeg" alt="Inteli" width="250" height="160" />
             </a>
-            <p><strong>Inteli</strong></p>
-            <p>Sou mediador de alunos no Inteli, onde atuo auxiliando na mediação de conflitos entre colegas. Nesse papel, desenvolvo minhas soft skills, enquanto contribuo para um ambiente acadêmico mais colaborativo e harmonioso.</p>
+            <p><strong>Engenharia de Software</strong></p>
+            <p>Estudo Engenharia de Software no Inteli, onde aplico os conhecimentos adquiridos em projetos reais desenvolvidos em parceria com empresas do mercado. A metodologia de ensino é focada em projetos práticos, possibilitando o aprendizado de metodologias ágeis, soft skills, ética profissional e liderança, preparando os alunos para o mercado de trabalho.</p>
           </div>
         </td>
         <td width="50%">
@@ -213,6 +213,16 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
     <table style="width: 100%;">
       <tr>
         <td width="50%">
+          <h3 align="center">Aluno Mediador</h3>
+          <div align="center">  
+            <a href='#' target="_blank">
+              <img src="images/inteli.jpeg" alt="Inteli" width="250" height="160" />
+            </a>
+            <p><strong>Inteli</strong></p>
+            <p>Sou mediador de alunos no Inteli, onde atuo auxiliando na mediação de conflitos entre colegas. Nesse papel, desenvolvo minhas soft skills, enquanto contribuo para um ambiente acadêmico mais colaborativo e harmonioso.</p>
+          </div>
+        </td>
+        <td width="50%">
           <h3 align="center">Comunidade Wave</h3>
           <div align="center">  
             <a href='#' target="_blank">
@@ -222,6 +232,8 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
             <p>Atuo como mentor na comunidade Wave, uma iniciativa dedicada a apoiar candidatos durante o processo seletivo do Inteli. Meu papel como mentor é oferecer suporte aos mentorados, esclarecendo suas dúvidas, ajudando a lidar com desafios e proporcionando orientação ao longo de toda a jornada de preparação.</p>
           </div>
         </td>
+      </tr>
+      <tr>
         <td width="50%">
           <h3 align="center">FamilySearch</h3>
           <div align="center">  
@@ -236,8 +248,6 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
     </table>
   </div>
 </details>
-
-
 
 
 <details> 
