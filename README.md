@@ -329,11 +329,8 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
 </details>
 
 
-
-
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=3000&pause=1000&color=195AB4&center=true&vCenter=true&width=435&lines=Obrigado+pela+visita!+Volte+sempre!" alt="Typing SVG" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndreLobo1&theme=highcontrast&border_radius=5&locale=pt_BR&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 </div>
 
 <p align ="center"> Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="25px"></p>
