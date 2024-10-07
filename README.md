@@ -332,7 +332,7 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Seja%20o%20engenheiro,%20não%20o%20robô.&type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+![Quote](https://quotes-github-readme.vercel.app/api?quote=Seja%20o%20engenheiro,%20não%20o%20robô.&type=horizontal&theme=dark&border=true&align=center)
 
 </div>
 
